@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="editing_mode_title">
+    <item quantity="zero">%1$d odabran</item>
+    <item quantity="one">%1$d odabran</item>
+    <item quantity="two">%1$d odabran</item>
+    <item quantity="few">%1$d odabran</item>
+    <item quantity="many">%1$d odabran</item>
+    <item quantity="other">%1$d odabran</item>
+  </plurals>
+  <plurals name="uninstall_dialog_title_format">
+    <item quantity="one">Deinstaliran %s</item>
+    <item quantity="other">Deinstaliraj %1$s i %2$d drugih aplikacija?</item>
+  </plurals>
+  <plurals name="uninstall_result_succeeded">
+    <item quantity="zero">%1$d aplikacija deinstalirano</item>
+    <item quantity="one">Aplikacja deinstalirana</item>
+    <item quantity="two">%1$d alikacija deinstalirano</item>
+    <item quantity="many">%1$d aplikacija deinstalirano</item>
+    <item quantity="other">%1$d aplikacija deinstalirano</item>
+  </plurals>
+  <plurals name="uninstall_result_failed">
+    <item quantity="one">Nije moguće odstraniti %s</item>
+    <item quantity="two">Nije moguće odstraniti %s i 1 drugu aplikaciju</item>
+    <item quantity="other">Nije moguće odstraniti %1$s i %2$d aplikacij</item>
+  </plurals>
+</resources>

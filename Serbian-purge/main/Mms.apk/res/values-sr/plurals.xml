@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="one">Izbriši konverzaciju?</item>
+    <item quantity="other">Izbriši izabrane %1$s konverzacije?</item>
+  </plurals>
+  <plurals name="slide_duration">
+    <item quantity="one">%s sekunda</item>
+    <item quantity="few">%s sekundi</item>
+    <item quantity="other">%s sekundi</item>
+  </plurals>
+  <plurals name="slide_audio_duration">
+    <item quantity="one">%s sekunda</item>
+    <item quantity="few">%s sekundi</item>
+    <item quantity="other">%s sekundi</item>
+  </plurals>
+  <plurals name="search_results_title">
+    <item quantity="one">'%1$s rezultat za "%2$s"'</item>
+    <item quantity="other">'%1$s rezultati za "%2$s"'</item>
+  </plurals>
+  <plurals name="recipient_count">
+    <item quantity="other">%1$s ljudi</item>
+  </plurals>
+  <plurals name="message_count">
+    <item quantity="one">%1$s poruka</item>
+    <item quantity="other">%1$s poruke</item>
+  </plurals>
+</resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="phone_in_ecm_notification_time">
+    <item quantity="one">Nema veze za prenos podataka za %s minutu</item>
+    <item quantity="other">Nema veze za prenos podataka za %s minuta</item>
+  </plurals>
+  <plurals name="alert_dialog_exit_ecm">
+    <item quantity="one">Telefon će biti u režimu Hitnog Povratnog Poziva %s minut. Dok je u ovom režimu nijedna aplikacija ne može da koristi prenos podataka. Da li želite da napustite sada?</item>
+    <item quantity="other">Telefon će biti u režimu Hitnog Povratnog Poziva %s minuta. Dok je u ovom režimu nijedna aplikacija ne može da koristi prenos podataka. Da li želite da napustite sada?</item>
+  </plurals>
+  <plurals name="alert_dialog_not_avaialble_in_ecm">
+    <item quantity="one">Izabrana akcija nije dostupna u režimu Hitnog Povratnog Poziva. Telefon će biti u tom režimu jos %s minutu. Da li želite da napustite sada? </item>
+    <item quantity="other">Izabrana akcija nije dostupna u režimu Hitnog Povratnog Poziva. Telefon će biti u tom režimu jos %s minuta. Da li želite da napustite sada? </item>
+  </plurals>
+</resources>

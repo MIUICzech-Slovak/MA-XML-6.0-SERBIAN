@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="abbrev_less_than_one_minute_ago">
+    <item quantity="other">Upravo</item>
+  </plurals>
+  <plurals name="less_than_one_minute_ago">
+    <item quantity="other">Upravo</item>
+  </plurals>
+  <plurals name="abbrev_in_less_than_one_minute">
+    <item quantity="other">Odmah</item>
+  </plurals>
+  <plurals name="in_less_than_one_minute">
+    <item quantity="other">Odmah</item>
+  </plurals>
+  <plurals name="abbrev_a_hour_ago">
+    <item quantity="other">Pre 1 sat</item>
+  </plurals>
+  <plurals name="abbrev_half_hour_ago">
+    <item quantity="other">Pre pola sata</item>
+  </plurals>
+  <plurals name="a_hour_ago">
+    <item quantity="other">Pre 1 sat</item>
+  </plurals>
+  <plurals name="half_hour_ago">
+    <item quantity="other">Pre pola sata</item>
+  </plurals>
+  <plurals name="abbrev_in_a_hour">
+    <item quantity="other">Za 1 sat</item>
+  </plurals>
+  <plurals name="abbrev_in_half_hour">
+    <item quantity="other">Za pola sata</item>
+  </plurals>
+  <plurals name="in_a_hour">
+    <item quantity="other">Za 1 sat</item>
+  </plurals>
+  <plurals name="in_half_hour">
+    <item quantity="other">Za pola sata</item>
+  </plurals>
+  <plurals name="abbrev_num_minutes_ago">
+    <item quantity="one">Pre 1 minut</item>
+    <item quantity="other">Pre %d minuta</item>
+  </plurals>
+  <plurals name="num_minutes_ago">
+    <item quantity="one">Pre 1 minut</item>
+    <item quantity="other">Pre %d minuta</item>
+  </plurals>
+  <plurals name="abbrev_in_num_minutes">
+    <item quantity="one">Za 1 minut</item>
+    <item quantity="other">Za %d minuta</item>
+  </plurals>
+  <plurals name="in_num_minutes">
+    <item quantity="one">Za 1 minut</item>
+    <item quantity="other">Za %d minuta</item>
+  </plurals>
+  <plurals name="items_selected">
+    <item quantity="one">Izabrana %d stavka</item>
+    <item quantity="other">Izabrano %d stavki</item>
+  </plurals>
+</resources>

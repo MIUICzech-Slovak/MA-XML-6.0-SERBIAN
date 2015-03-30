@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="actionbar_unread_messages">
+    <item quantity="other">%1$d nepročitanih</item>
+  </plurals>
+  <plurals name="confirm_archive_conversation">
+    <item quantity="zero">Arhiviraj te %1$d prepiske?</item>
+    <item quantity="one">Arhiviraj tu prepisku?</item>
+    <item quantity="two">Arhiviraj te %1$d prepiske?</item>
+    <item quantity="few">Arhiviraj tih %1$d prepiski?</item>
+    <item quantity="many">Arhiviraj tih %1$d prepiski?</item>
+    <item quantity="other">Arhiviraj ostale %1$d prepiske?</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation">
+    <item quantity="zero">Izbrišem te %1$d prepiske?</item>
+    <item quantity="one">Izbrišem tu prepisku?</item>
+    <item quantity="two">Izbrišem te %1$d prepiske?</item>
+    <item quantity="few">Izbrišem tih %1$d prepiski?</item>
+    <item quantity="many">Izbrišem tih %1$d prepiski?</item>
+    <item quantity="other">Izbrišem ostale %1$d prepiske?</item>
+  </plurals>
+  <plurals name="confirm_delete_conversation_with_sub">
+    <item quantity="zero">Prepiske sadrže združivanje stavki. Izbrišem svakako?</item>
+    <item quantity="one">Prepiska sadrže združivanje stavki. Izbrišem svakako?</item>
+    <item quantity="two">Prepiske sadrže združivanje stavki. Izbrišem svakako?</item>
+    <item quantity="few">Prepiske sadrže združivanje stavki. Izbrišem svakako?</item>
+    <item quantity="many">Prepiske sadrže združivanje stavki. Izbrišem svakako?</item>
+    <item quantity="other">Prepiske sadrže združivanje stavki. Izbrišem svakako?</item>
+  </plurals>
+  <plurals name="confirm_discard_drafts_conversation">
+    <item quantity="one">Odbacim nacrt iz ovoe prepiske?</item>
+    <item quantity="other">Odbacim nacrte iz ovih %1$d prepiski?</item>
+  </plurals>
+  <plurals name="contact_num_selected">
+    <item quantity="zero">%d izabran</item>
+    <item quantity="one">%d izabran</item>
+    <item quantity="two">%d izabrana</item>
+    <item quantity="few">%d izabrano</item>
+    <item quantity="many">%d izabranih</item>
+    <item quantity="other">%d izabrani</item>
+  </plurals>
+  <plurals name="conversation_archived">
+    <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; arhiviran.</item>
+    <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; arhivirani.</item>
+  </plurals>
+  <plurals name="conversation_deleted">
+    <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; izbrisan.</item>
+    <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; izbrisanih.</item>
+  </plurals>
+  <plurals name="conversation_folder_changed">
+    <item quantity="one">Promenjena fascikla.</item>
+    <item quantity="other">Promenjene fascikle.</item>
+  </plurals>
+  <plurals name="conversation_muted">
+    <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; utišan.</item>
+    <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; utišanih</item>
+  </plurals>
+  <plurals name="conversation_not_important">
+    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjen iz fascikle 'važno'"</item>
+    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka uklonjenih iz fascikle 'važno'"</item>
+  </plurals>
+  <plurals name="conversation_not_spam">
+    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjeno iz fascikle  'neželjena pošta'"</item>
+    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjenih iz fascikle  'neželjena pošta'"</item>
+  </plurals>
+  <plurals name="conversation_phished">
+    <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka prijavljena kao neželjena pošta</item>
+    <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka prijavljenih kao neželjena pošta</item>
+  </plurals>
+  <plurals name="conversation_spammed">
+    <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka označena kao neželjena pošta</item>
+    <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka označenih kao neželjena pošta</item>
+  </plurals>
+  <plurals name="conversation_unstarred">
+    <item quantity="one">Neoznačena %1$d prepiska</item>
+    <item quantity="other">Neoznačene %1$d prepiske</item>
+  </plurals>
+  <plurals name="draft">
+    <item quantity="one">Nacrt</item>
+    <item quantity="other">Nacrti</item>
+  </plurals>
+  <plurals name="empty_folder_dialog_message">
+    <item quantity="zero">%1$d poruka će biti trajno izbrisanih.</item>
+    <item quantity="one">%1$d poruka će biti trajno izbrisana.</item>
+    <item quantity="two">%1$d poruka će biti trajno izbrisane.</item>
+    <item quantity="few">%1$d poruka će biti trajno izbrisanih.</item>
+    <item quantity="many">%1$d poruka će biti trajno izbrisanih.</item>
+    <item quantity="other">%1$d poruka će biti trajno izbrisane.</item>
+  </plurals>
+  <plurals name="message_view_attachment_bytes">
+    <item quantity="zero">%dB</item>
+    <item quantity="one">%dB</item>
+    <item quantity="two">%dB</item>
+    <item quantity="few">%dB</item>
+    <item quantity="many">%dB</item>
+    <item quantity="other">%dB</item>
+  </plurals>
+  <plurals name="message_view_attachment_gigabytes">
+    <item quantity="zero">%dGB</item>
+    <item quantity="one">%dGB</item>
+    <item quantity="two">%dGB</item>
+    <item quantity="few">%dGB</item>
+    <item quantity="many">%dGB</item>
+    <item quantity="other">%dGB</item>
+  </plurals>
+  <plurals name="message_view_attachment_kilobytes">
+    <item quantity="zero">%dKB</item>
+    <item quantity="one">%dKB</item>
+    <item quantity="two">%dKB</item>
+    <item quantity="few">%dKB</item>
+    <item quantity="many">%dKB</item>
+    <item quantity="other">%dKB</item>
+  </plurals>
+  <plurals name="message_view_attachment_megabytes">
+    <item quantity="zero">%dMB</item>
+    <item quantity="one">%dMB</item>
+    <item quantity="two">%dMB</item>
+    <item quantity="few">%dMB</item>
+    <item quantity="many">%dMB</item>
+    <item quantity="other">%dMB</item>
+  </plurals>
+  <plurals name="move_conversation">
+    <item quantity="zero">Premesti %1$d prepiski</item>
+    <item quantity="one">Premesti %1$d prepisku</item>
+    <item quantity="two">Premesti %1$d prepiske</item>
+    <item quantity="few">Premesti %1$d prepiski</item>
+    <item quantity="many">Premesti %1$d prepiski</item>
+    <item quantity="other">Premesti %1$d prepiske</item>
+  </plurals>
+  <plurals name="move_messages">
+    <item quantity="zero">Premesti poruke</item>
+    <item quantity="one">Premesti poruku</item>
+    <item quantity="two">Premesti poruke</item>
+    <item quantity="few">Premesti poruke</item>
+    <item quantity="many">Premesti poruka</item>
+    <item quantity="other">Premesti poruke</item>
+  </plurals>
+  <plurals name="new_incoming_messages_many">
+    <item quantity="zero">Prikaži %1$d nove poruke.</item>
+    <item quantity="one">Prikaži %1$d novu poruku.</item>
+    <item quantity="two">Prikaži %1$d nove poruke.</item>
+    <item quantity="few">Prikaži %1$d nove poruke.</item>
+    <item quantity="many">Prikaži %1$d novih poruka.</item>
+    <item quantity="other">Prikaži %1$d nove poruke.</item>
+  </plurals>
+  <plurals name="num_selected">
+    <item quantity="zero">%d izabranih</item>
+    <item quantity="one">%d izabrana</item>
+    <item quantity="two">%d izabrane</item>
+    <item quantity="few">%d izabranih</item>
+    <item quantity="many">%d izabranih</item>
+    <item quantity="other">%d izabrane</item>
+  </plurals>
+  <plurals name="show_messages_read">
+    <item quantity="zero">%1$d starije poruke</item>
+    <item quantity="one">%1$d starija poruka</item>
+    <item quantity="two">%1$d starije poruke</item>
+    <item quantity="few">%1$d starijih poruka</item>
+    <item quantity="many">%1$d starijih poruka</item>
+    <item quantity="other">%1$d starijie poruke</item>
+  </plurals>
+</resources>
