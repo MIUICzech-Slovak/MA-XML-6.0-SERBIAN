@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="dirty_contacts_count">
+    <item quantity="one">%d kontakt</item>
+    <item quantity="other">%d kontakata</item>
+  </plurals>
+  <plurals name="dirty_mms_count">
+    <item quantity="one">%d poruka</item>
+    <item quantity="other">%d poruka</item>
+  </plurals>
+  <plurals name="dirty_note_count">
+    <item quantity="one">%d beleška</item>
+    <item quantity="other">%d beleške</item>
+  </plurals>
+  <plurals name="dirty_image_count">
+    <item quantity="one">%d fotografija</item>
+    <item quantity="other">%d fotografije</item>
+  </plurals>
+</resources>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="Ntracks_search_result">
+    <item quantity="one">%d pesma pronađena</item>
+    <item quantity="other">%d pesama pronađeno</item>
+  </plurals>
+  <plurals name="Nexpired_remind">
+    <item quantity="one">%d dan ostao</item>
+    <item quantity="other">%d dana ostalo</item>
+  </plurals>
+  <plurals name="NTrackstoDownload">
+    <item quantity="one">1 pesma će biti prenešena</item>
+    <item quantity="other">1 pesama će biti prenešeno</item>
+  </plurals>
+  <plurals name="Nnew_tracks_count">
+    <item quantity="other">%d novo</item>
+  </plurals>
+  <plurals name="Ntracks_count">
+    <item quantity="one">%s pesma</item>
+    <item quantity="other">%d pesama</item>
+  </plurals>
+  <plurals name="Ntracks_add_to_playlist">
+    <item quantity="one">Pesma dodata na listu</item>
+    <item quantity="other">%d pesama dodato na listu</item>
+  </plurals>
+  <plurals name="Ntracks_remove_from_playlist">
+    <item quantity="one">Pesma uklonjena sa liste</item>
+    <item quantity="other">%d pesama uklonjeno sa liste</item>
+  </plurals>
+  <plurals name="artist_list_fragment_item_count_format">
+    <item quantity="one">1 pesma</item>
+    <item quantity="other">%d pesama</item>
+  </plurals>
+  <plurals name="send_songs_toast">
+    <item quantity="one">1 pesma će biti poslata</item>
+    <item quantity="other">%d pesama će biti poslato</item>
+  </plurals>
+  <plurals name="folder_songs_count">
+    <item quantity="one">1 pesma</item>
+    <item quantity="other">%d pesama</item>
+  </plurals>
+</resources>

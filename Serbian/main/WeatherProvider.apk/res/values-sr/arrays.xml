@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="weather_type">
+    <item>Sunčan</item>
+    <item>Oblačan</item>
+    <item>Oblačan</item>
+    <item>Maglovit</item>
+    <item>Jaki pljusak</item>
+    <item>Pljusak</item>
+    <item>Pljusak</item>
+    <item>Oluja</item>
+    <item>Slaba kiša</item>
+    <item>Jaka kiša</item>
+    <item>Sredja kiša</item>
+    <item>Slaba kiša</item>
+    <item>Susnežica</item>
+    <item>Mećava</item>
+    <item>Sneg</item>
+    <item>Jaki sneg</item>
+    <item>Srednji sneg</item>
+    <item>Blagi sneg</item>
+    <item>Jaka peščana oluja</item>
+    <item>Peščana oluja</item>
+    <item>Peščana oluja</item>
+    <item>Vetrovit</item>
+    <item>Hail</item>
+    <item>Prašina</item>
+    <item>Maglovit</item>
+    <item>Ledena kiša</item>
+    <item>Bez podatka</item>
+  </string-array>
+  <string-array name="weather_indexes_uv_level">
+    <item>Najslabiji</item>
+    <item>Slab</item>
+    <item>Srednji</item>
+    <item>Jaki</item>
+    <item>Najjači</item>
+  </string-array>
+  <string-array name="wind_direction">
+    <item>Vetar N</item>
+    <item>Vetar NE</item>
+    <item>Vetar E</item>
+    <item>Vetar SE</item>
+    <item>Vetar S</item>
+    <item>Vetar SW</item>
+    <item>Vetar W</item>
+    <item>Vetar NW</item>
+  </string-array>
+</resources>

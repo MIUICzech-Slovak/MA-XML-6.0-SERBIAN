@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <plurals name="delete_files_confirm">
+    <item quantity="zero">Izbriši %1$d datoteka</item>
+    <item quantity="one">Izbriši %1$d datoteku</item>
+    <item quantity="two">Izbriši %1$d datoteka</item>
+    <item quantity="few">%1$Izbriši %1$d datoteka</item>
+    <item quantity="many">Izbriši %1$d datoteka</item>
+    <item quantity="other">Izbriši %1$d datoteka</item>
+  </plurals>
+  <plurals name="delete_folders_confirm">
+    <item quantity="zero">i %1$d fascikli?</item>
+    <item quantity="one">i %1$d fasciklu?</item>
+    <item quantity="two">i %1$d fascikli?</item>
+    <item quantity="few">i %1$d fascikli?</item>
+    <item quantity="many">i %1$d fascikli?</item>
+    <item quantity="other">i %1$d fascikli?</item>
+  </plurals>
+  <plurals name="directory_item_count">
+    <item quantity="zero">%d stavki</item>
+    <item quantity="one">%d stavka</item>
+    <item quantity="two">%d stavki</item>
+    <item quantity="few">%d stavki</item>
+    <item quantity="many">%d stavki</item>
+    <item quantity="other">%d stavki</item>
+  </plurals>
+  <plurals name="ui_bar_txt_download_progress">
+    <item quantity="zero">%1$d datoteka za prenos</item>
+    <item quantity="one">%1$d datoteka za prenos</item>
+    <item quantity="two">%1$d datoteka za prenos</item>
+    <item quantity="few">%1$d datoteka za prenos</item>
+    <item quantity="many">%1$d datoteka za prenos</item>
+    <item quantity="other">%1$d datoteka za prenos</item>
+  </plurals>
+  <plurals name="ui_bar_txt_upload_progress">
+    <item quantity="zero">%1$d datoteka preostalo za slanje</item>
+    <item quantity="one">%1$d datoteka preostalo za slanje</item>
+    <item quantity="two">%1$d datoteka preostalo za slanje</item>
+    <item quantity="few">%1$d datoteka preostalo za slanje</item>
+    <item quantity="many">%1$d datoteka preostalo za slanje</item>
+    <item quantity="other">%1$d datoteka preostalo za slanje</item>
+  </plurals>
+  <plurals name="numSelectedFile">
+    <item quantity="zero">%1$d izabrano</item>
+    <item quantity="one">%1$d izabrano</item>
+    <item quantity="two">%1$d izabrano</item>
+    <item quantity="few">%1$d izabrano</item>
+    <item quantity="many">%1$d izabrano</item>
+    <item quantity="other">%1$d izabrano</item>
+  </plurals>
+</resources>
