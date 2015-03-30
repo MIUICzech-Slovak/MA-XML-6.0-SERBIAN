@@ -1,55 +1,50 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-  <string-array name="font_size_scale">
-    <item>0.86</item>
-    <item>1.0</item>
-    <item>1.2</item>
-    <item>1.21</item>
-  </string-array>
-  <string-array name="backup_dialog_content_type">
-    <item>WLAN podatki</item>
-    <item>Sve aplikacije</item>
-  </string-array>
-  <string-array name="system_package_label">
-    <item>Čitač</item>
-    <item>Dozvola</item>
-    <item>Foto aparat</item>
-    <item>Potrošnja prometa podataka</item>
-    <item>Podaci o vremenu</item>
-    <item>Vreme</item>
-  </string-array>
-  <string-array name="system_data_label">
-    <item>@string/Kontakti</item>
-    <item>@string/Dnevnici poziva</item>
-    <item>@string/Poruke</item>
-    <item>@string/Multimedijalne poruke</item>
-    <item>@string/Sistemska podešavanja</item>
-    <item>@string/WLAN podešavanja</item>
-    <item>Izgled početnog ekrana</item>
-    <item>Podešavanje alarma</item>
-    <item>Beleške</item>
-    <item>DND</item>
-    <item>Nalog</item>
-  </string-array>
-  <string-array name="app_type_desc">
-    <item>Podaci</item>
-    <item>Aplikaicje</item>
-    <item>Aplikacije i podaci</item>
-  </string-array>
-  <string-array name="cloud_data_label">
-    <item>Kontakti</item>
-    <item>Dnevnici poziva</item>
-    <item>Poruke</item>
-    <item>WLAN podešavanja</item>
-    <item>Beleške</item>
-  </string-array>
-  <string-array name="cloud_account_data">
-    <item>Kontakti</item>
-    <item>WLAN podešavanja</item>
-    <item>Beleške</item>
-  </string-array>
-  <string-array name="cloud_sim_data">
-    <item>Dnevnici poziva</item>
-    <item>Poruke</item>
-  </string-array>
+     <string-array name="app_type_desc">
+        <item>Podaci</item>
+        <item>Aplikaicje</item>
+        <item>Aplikacije i podaci</item>
+     </string-array>
+     <string-array name="backup_dialog_content_type">
+        <item>WLAN podatki</item>
+        <item>Sve aplikacije</item>
+     </string-array>
+     <string-array name="cloud_account_data">
+        <item>Kontakti</item>
+        <item>WLAN podešavanja</item>
+        <item>Beleške</item>
+     </string-array>
+     <string-array name="cloud_data_label">
+        <item>Kontakti</item>
+        <item>Dnevnici poziva</item>
+        <item>Poruke</item>
+        <item>WLAN podešavanja</item>
+        <item>Beleške</item>
+     </string-array>
+     <string-array name="cloud_sim_data">
+        <item>Dnevnici poziva</item>
+        <item>Poruke</item>
+     </string-array>
+     <string-array name="system_data_label">
+        <item>@string/Kontakti</item>
+        <item>@string/Dnevnici poziva</item>
+        <item>@string/Poruke</item>
+        <item>@string/Multimedijalne poruke</item>
+        <item>@string/Sistemska podešavanja</item>
+        <item>@string/WLAN podešavanja</item>
+        <item>Izgled početnog ekrana</item>
+        <item>Podešavanje alarma</item>
+        <item>Beleške</item>
+        <item>DND</item>
+        <item>Nalog</item>
+     </string-array>
+     <string-array name="system_package_label">
+        <item>Čitač</item>
+        <item>Dozvola</item>
+        <item>Foto aparat</item>
+        <item>Potrošnja prometa podataka</item>
+        <item>Podaci o vremenu</item>
+        <item>Vreme</item>
+     </string-array>
 </resources>

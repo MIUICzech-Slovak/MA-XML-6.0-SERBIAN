@@ -1,337 +1,97 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
 <resources>
-  <string-array name="reminder_methods_labels">
-    <item>Obaveštenje</item>
-    <item>Email</item>
-    <item>Tekstualna poruka</item>
-    <item>Alarm</item>
-  </string-array>
-  <integer-array name="reminder_methods_values">
-    <item>1</item>
-    <item>2</item>
-    <item>3</item>
-    <item>4</item>
-  </integer-array>
-  <string-array name="reminder_minutes_labels">
-    <item>Nema podsetnika</item>
-    <item>0 minuta</item>
-    <item>5 minuta</item>
-    <item>10 minuta</item>
-    <item>15 minuta</item>
-    <item>30 minuta</item>
-    <item>1 sat</item>
-    <item>1 dan</item>
-    <item>2 dana</item>
-    <item>1 nedelja</item>
-  </string-array>
-  <integer-array name="reminder_minutes_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </integer-array>
-  <string-array name="preferences_default_reminder_labels">
-    <item>Nema podsetnika</item>
-    <item>0 minuta</item>
-    <item>5 minuta</item>
-    <item>10 minuta</item>
-    <item>15 minuta</item>
-    <item>30 minuta</item>
-    <item>1 sat</item>
-    <item>1 dan</item>
-    <item>2 dana</item>
-    <item>1 nedelja</item>
-  </string-array>
-  <string-array name="preferences_default_reminder_values">
-    <item>-1</item>
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </string-array>
-  <string-array name="preferences_week_start_day_labels">
-    <item>Lokalno uobičajeno</item>
-    <item>Subota</item>
-    <item>Nedelja</item>
-    <item>Ponedeljak</item>
-  </string-array>
-  <string-array name="preferences_week_start_day_values">
-    <item>-1</item>
-    <item>7</item>
-    <item>1</item>
-    <item>2</item>
-  </string-array>
-  <string-array name="timezone_labels">
-    <item>Maršalska Ostrva</item>
-    <item>Midvejska Ostrva</item>
-    <item>Havaji</item>
-    <item>Aljaska</item>
-    <item>Pacifičko Vreme</item>
-    <item>Tihuana</item>
-    <item>Arizona</item>
-    <item>Čivava</item>
-    <item>Planinsko vreme</item>
-    <item>Centralna Amerika</item>
-    <item>Centralno Vreme</item>
-    <item>Meksiko Siti</item>
-    <item>Saskačevan</item>
-    <item>Bogota</item>
-    <item>Istočno Vreme</item>
-    <item>Venecuela</item>
-    <item>Atlansko vreme (Barbados)</item>
-    <item>Atlansko vreme (Canada)</item>
-    <item>Manaus</item>
-    <item>Santjago</item>
-    <item>Njufaundlend</item>
-    <item>Brazilija</item>
-    <item>Buenos Aires</item>
-    <item>Grenland</item>
-    <item>Montevideo</item>
-    <item>Centralno Atlansko</item>
-    <item>Azuri</item>
-    <item>Zelenortska Ostrva</item>
-    <item>Kazablanka</item>
-    <item>London, Dablin</item>
-    <item>Amsterdam, Berlin</item>
-    <item>Beograd</item>
-    <item>Brisel</item>
-    <item>Sarajevo</item>
-    <item>Vindhoek</item>
-    <item>Zapadno Afričko Vreme</item>
-    <item>Aman, Jordan</item>
-    <item>Atina, Istambul</item>
-    <item>Bejrut, Liban</item>
-    <item>Kairo</item>
-    <item>Helsinki</item>
-    <item>Jerusalim</item>
-    <item>Minsk</item>
-    <item>Harare</item>
-    <item>Bagdad</item>
-    <item>Moskva</item>
-    <item>Kuvajt</item>
-    <item>Najrobi</item>
-    <item>Tereran</item>
-    <item>Baku</item>
-    <item>Tbilisi</item>
-    <item>Jerevan</item>
-    <item>Dubai</item>
-    <item>Kabul</item>
-    <item>Islamabad, Karači</item>
-    <item>Uralsk</item>
-    <item>Jekaterinsburg</item>
-    <item>Kolkata</item>
-    <item>Šri Lanka</item>
-    <item>Katmandu</item>
-    <item>Astana</item>
-    <item>Jangon</item>
-    <item>Krasnojarsk</item>
-    <item>Bankok</item>
-    <item>Peking</item>
-    <item>Hong Kong</item>
-    <item>Irkutsk</item>
-    <item>Kuala Lumpur</item>
-    <item>Pert</item>
-    <item>Taipei</item>
-    <item>Seul</item>
-    <item>Tokio, Osaka</item>
-    <item>Jakutsk</item>
-    <item>Adelaide</item>
-    <item>Darwin</item>
-    <item>Brisbejn</item>
-    <item>Hobart</item>
-    <item>Sidnej, Kanbera</item>
-    <item>Vladivostok</item>
-    <item>Guam</item>
-    <item>Magadan</item>
-    <item>Okland</item>
-    <item>Fidži</item>
-    <item>Tonga</item>
-  </string-array>
-  <string-array name="timezone_values">
-    <item>Pacifik/Majuro</item>
-    <item>Pacifik/Midvej</item>
-    <item>Pacifik/Honolulu</item>
-    <item>Amerika/Ankoridž</item>
-    <item>Amerika/Los Anđeles</item>
-    <item>Amerika/Tihuana</item>
-    <item>Amerika/Peniks</item>
-    <item>Amerika/Čivava</item>
-    <item>Amerika/Denver</item>
-    <item>Amerika/Kosta Rika</item>
-    <item>Amerika/Čikago</item>
-    <item>Amerika/Meksiko_Siti</item>
-    <item>Amerika/Regina</item>
-    <item>Amerika/Bogota</item>
-    <item>Amerika/Njujokr</item>
-    <item>Amerika/Karakas</item>
-    <item>Amerika/Barbados</item>
-    <item>Amerika/Halifaks</item>
-    <item>Amerika/Manaus</item>
-    <item>Amerika/Santjago</item>
-    <item>Amerika/Sent_Džons</item>
-    <item>Amerika/Sao_Paolo</item>
-    <item>Amerika/Argentina/Buenos_Aires</item>
-    <item>Amerika/Gotab</item>
-    <item>Amerika/Montevideo</item>
-    <item>Atlantik/Južna Džordžija</item>
-    <item>Atlantik/Azores</item>
-    <item>Atlantik/Cejp_Verde</item>
-    <item>Afrika/Kazablanka</item>
-    <item>Evropa/London</item>
-    <item>Evropa/Amsterdam</item>
-    <item>Evropa/Beograd</item>
-    <item>Evropa/Brisel</item>
-    <item>Evropa/Sarajevo</item>
-    <item>Afrika/Vindhuk</item>
-    <item>Afrika/Brazavil</item>
-    <item>Azija/Aman</item>
-    <item>Evropa/Atina</item>
-    <item>Azija/Bejrut</item>
-    <item>Afrika/Kairo</item>
-    <item>Evropa/Helsinki</item>
-    <item>Azija/Jerusalim</item>
-    <item>Evropa/Minsk</item>
-    <item>Afrika/Harare</item>
-    <item>Azija/Bagdad</item>
-    <item>Evropa/Moskva</item>
-    <item>Azija/Kuvajt</item>
-    <item>Afrika/Najrobi</item>
-    <item>Azija/Teheran</item>
-    <item>Azija/Baku</item>
-    <item>Azija/Tbilisi</item>
-    <item>Azija/Jerevan</item>
-    <item>Azija/Dubai</item>
-    <item>Azija/Kabul</item>
-    <item>Azija/Karači</item>
-    <item>Azija/Oral</item>
-    <item>Azija/Jekaterinsburg</item>
-    <item>Azija/Kalkuta</item>
-    <item>Azija/Kolombo</item>
-    <item>Azija/Katmandu</item>
-    <item>Azija/Almati</item>
-    <item>Azija/Ragun</item>
-    <item>Azija/Krasnojarsk</item>
-    <item>Azija/Bankok</item>
-    <item>Azija/Šangaj</item>
-    <item>Azija/Hong_Kong</item>
-    <item>Azija/Irkutsk</item>
-    <item>Azija/Kuala_Lumpur</item>
-    <item>Australija/Pert</item>
-    <item>Azija/Tajpej</item>
-    <item>Azija/Seul</item>
-    <item>Azija/Tokio</item>
-    <item>Azija/Yakutsk</item>
-    <item>Australija/Adelaide</item>
-    <item>Australija/Darwin</item>
-    <item>Australija/Brizbejn</item>
-    <item>Australija/Hobart</item>
-    <item>Australija/Sidnej</item>
-    <item>Azija/Vladivostok</item>
-    <item>Pacifik/Guam</item>
-    <item>Azija/Magadan</item>
-    <item>Pacifik/Okland</item>
-    <item>Pacifik/Fidži</item>
-    <item>Pacifik/Tongatapu</item>
-  </string-array>
-  <string-array name="availability">
-    <item>Zauzet</item>
-    <item>Na raspolaganju</item>
-    <item>Uslovno</item>
-  </string-array>
-  <integer-array name="availability_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </integer-array>
-  <string-array name="visibility">
-    <item>Uobičajeno</item>
-    <item>Privatno</item>
-    <item>Javno</item>
-  </string-array>
-  <string-array name="ordinal_labels">
-    <item>prvi</item>
-    <item>drugi</item>
-    <item>treći</item>
-    <item>četvrti</item>
-    <item>poslednji</item>
-  </string-array>
-  <string-array name="response_labels1">
-    <item>Nema odgovora</item>
-    <item>Da</item>
-    <item>Možda</item>
-    <item>Ne</item>
-  </string-array>
-  <string-array name="delete_repeating_labels">
-    <item>Svi događaji</item>
-    <item>Ovaj i budući događaji</item>
-    <item>Svi događaji</item>
-  </string-array>
-  <integer-array name="delete_repeating_values">
-    <item>0</item>
-    <item>1</item>
-    <item>2</item>
-  </integer-array>
-  <string-array name="delete_repeating_labels_no_selected">
-    <item>Ovaj i budući događaji</item>
-    <item>Svi događaji</item>
-  </string-array>
-  <string-array name="change_response_labels">
-    <item>Svi događaji</item>
-    <item>Svi događaji u seriji</item>
-  </string-array>
-  <string-array name="buttons_list">
-    <item>Dan</item>
-    <item>Nedelja</item>
-    <item>Mesec</item>
-    <item>Dnevni red</item>
-  </string-array>
-  <string-array name="quick_response_defaults">
-    <item>Kasnim samo nekoliko minuta.</item>
-    <item>Budite tamo za desetak minuta.</item>
-    <item>Počnite bez mene.</item>
-    <item>Nažalost, neću uspeti. Moraćemo da odložimo.</item>
-  </string-array>
-  <string-array name="prefEntries_alerts_vibrateWhen">
-    <item>Uvek</item>
-    <item>Samo kada je zvono utišano</item>
-    <item>Nikad</item>
-  </string-array>
-  <string-array name="prefValues_alerts_vibrateWhen">
-    <item>uvek</item>
-    <item>tiho</item>
-    <item>nikad</item>
-  </string-array>
-  <string-array name="widget_style_list">
-    <item>Providno</item>
-    <item>Bela pozadina</item>
-  </string-array>
-  <integer-array name="online_reminder_minutes_values">
-    <item>0</item>
-    <item>5</item>
-    <item>10</item>
-    <item>15</item>
-    <item>30</item>
-    <item>60</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>10080</item>
-  </integer-array>
-  <integer-array name="online_reminder_minutes_values_allday">
-    <item>0</item>
-    <item>1440</item>
-    <item>2880</item>
-    <item>4320</item>
-    <item>10080</item>
-  </integer-array>
+     <string-array name="availability">
+        <item>Zauzet</item>
+        <item>Na raspolaganju</item>
+        <item>Uslovno</item>
+     </string-array>
+     <string-array name="buttons_list">
+        <item>Dan</item>
+        <item>Nedelja</item>
+        <item>Mesec</item>
+        <item>Dnevni red</item>
+     </string-array>
+     <string-array name="change_response_labels">
+        <item>Svi događaji</item>
+        <item>Svi događaji u seriji</item>
+     </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Svi događaji</item>
+        <item>Ovaj i budući događaji</item>
+        <item>Svi događaji</item>
+     </string-array>
+     <string-array name="delete_repeating_labels_no_selected">
+        <item>Ovaj i budući događaji</item>
+        <item>Svi događaji</item>
+     </string-array>
+     <string-array name="ordinal_labels">
+        <item>prvi</item>
+        <item>drugi</item>
+        <item>treći</item>
+        <item>četvrti</item>
+        <item>poslednji</item>
+     </string-array>
+     <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Uvek</item>
+        <item>Samo kada je zvono utišano</item>
+        <item>Nikad</item>
+     </string-array>
+     <string-array name="preferences_default_reminder_labels">
+        <item>Nema podsetnika</item>
+        <item>0 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>1 dan</item>
+        <item>2 dana</item>
+        <item>1 nedelja</item>
+     </string-array>
+     <string-array name="preferences_week_start_day_labels">
+        <item>Lokalno uobičajeno</item>
+        <item>Subota</item>
+        <item>Nedelja</item>
+        <item>Ponedeljak</item>
+     </string-array>
+     <string-array name="quick_response_defaults">
+        <item>Kasnim samo nekoliko minuta.</item>
+        <item>Budite tamo za desetak minuta.</item>
+        <item>Počnite bez mene.</item>
+        <item>Nažalost, neću uspeti. Moraćemo da odložimo.</item>
+     </string-array>
+     <string-array name="reminder_methods_labels">
+        <item>Obaveštenje</item>
+        <item>Email</item>
+        <item>Tekstualna poruka</item>
+        <item>Alarm</item>
+     </string-array>
+     <string-array name="reminder_minutes_labels">
+        <item>Nema podsetnika</item>
+        <item>0 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>1 dan</item>
+        <item>2 dana</item>
+        <item>1 nedelja</item>
+     </string-array>
+     <string-array name="response_labels1">
+        <item>Nema odgovora</item>
+        <item>Da</item>
+        <item>Možda</item>
+        <item>Ne</item>
+     </string-array>
+     <string-array name="visibility">
+        <item>Uobičajeno</item>
+        <item>Privatno</item>
+        <item>Javno</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Providno</item>
+        <item>Bela pozadina</item>
+     </string-array>
 </resources>
