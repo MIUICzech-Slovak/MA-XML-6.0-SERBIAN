@@ -680,7 +680,7 @@
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
      <!-- Original string: Poglej vso besedilo od "%s" -->
-     <string name="url_find_on_page_result_item">Pogledaj sav tekst od </string>
+     <string name="url_find_on_page_result_item">Pogledaj sav tekst od %s</string>
      <string name="url_hint">Unesi URL da pregledaš web</string>
      <string name="url_opened_in_background">Otvori tab u pozadini</string>
      <string name="url_suggest_indicator_bookmark">Markeri/Istorija</string>

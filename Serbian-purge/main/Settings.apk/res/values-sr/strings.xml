@@ -205,7 +205,7 @@ Napomena: Trojni-tap za uvećanje radi svuda osim u baru tastature i navigacijsk
 	%s: 1 Original: 0
 	%d: 0 Original: 1 -->
      <!-- Original string: %d aplikacijam je dovoljeno, da se začenje samodejno -->
-     <string name="auto_startup_count">%s aplikacijama je dozvoljen automatski start</string>
+     <string name="auto_startup_count">%d aplikacijama je dozvoljen automatski start</string>
      <string name="automatic_brightness">Automatska osvetljenost</string>
      <string name="available_size">%s raspoloživo</string>
      <string name="awake">Vreme koje je uređaj budan</string>
@@ -323,13 +323,13 @@ Napomena: Trojni-tap za uvećanje radi svuda osim u baru tastature i navigacijsk
 	%s: 0 Original: 0
 	%d: 0 Original: 1 -->
      <!-- Original string: Aplikacija želi, da bo telefon viden drugim napravam Bluetooth za %1$d sekund. -->
-     <string name="bluetooth_ask_discovery">Aplikacija želi za je vaš telefon vidljiv drugim Bluetooth napravama za $1$ sekundi.</string>
+     <string name="bluetooth_ask_discovery">Aplikacija želi za je vaš telefon vidljiv drugim Bluetooth napravama za %1$d sekundi.</string>
      <string name="bluetooth_ask_enablement">Aplikacija želi da uključi Bluetooth</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 0
 	%d: 0 Original: 1 -->
      <!-- Original string: Aplikacija želi vklopiti Bluetooth, da bo telefon viden drugim napravam za %1$d sekund. -->
-     <string name="bluetooth_ask_enablement_and_discovery">Aplikacija želi za je vaš telefon vidljiv drugim Bluetooth napravama za $1$ sekundi.</string>
+     <string name="bluetooth_ask_enablement_and_discovery">Aplikacija želi za je vaš telefon vidljiv drugim Bluetooth napravama za %1$d sekundi.</string>
      <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikacija želi za je vaš telefon vidljiv drugim Bluetooth napravama za $1$ sekundi.</string>
      <string name="bluetooth_ask_lasting_discovery">Aplikacija želi za je vaš telefon vidljiv drugim Bluetooth napravama za $1$ sekundi.</string>
      <string name="bluetooth_auto_connect">Automatsko povezivanje</string>
@@ -2775,7 +2775,7 @@ Dozvolite ovo za sve aplikacije koje traže skeniranje?"</string>
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
      <!-- Original string: Za večjo natančnost lokacije in za druge namene, lahko Google in druge aplikacije iščejo omrežja, tudi če je WLAN izklopljen. Če ne želite, da se to zgodi, pojdite na Zahtevnejše&gt; Iskanje vedno na voljo. -->
-     <string name="wifi_scan_notify_text_location_on">Da bi poboljšali tačnost a i u druge svrhe, %1$s želi da uključi skeniranje mreže, čak i kada je WLAN isključen. Ako ne želite da se to desi, idite na Napredno &gt; Skeniranje uvek na volju. </string>
+     <string name="wifi_scan_notify_text_location_on">Da bi poboljšali tačnost a i u druge svrhe, želi da uključi skeniranje mreže, čak i kada je WLAN isključen. Ako ne želite da se to desi, idite na Napredno &gt; Skeniranje uvek na volju. </string>
      <string name="wifi_secured_first_item">Osigurano sa %1$s</string>
      <string name="wifi_secured_second_item">, osigurano sa %1$s</string>
      <string name="wifi_security">Bezbednost</string>

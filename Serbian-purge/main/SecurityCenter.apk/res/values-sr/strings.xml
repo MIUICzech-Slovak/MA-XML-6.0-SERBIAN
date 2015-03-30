@@ -194,7 +194,7 @@
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
      <!-- Original string: "Ta funkcija šifrira in prenese ID vaše naprave v Tencent's strežnike (%s)." -->
-     <string name="header_antivirus">Ova funkcija kodira i šalje ID vašeg uređaja Tenscent-ovim serverima (%c)</string>
+     <string name="header_antivirus">Ova funkcija kodira i šalje ID vašeg uređaja Tenscent-ovim serverima (%s)</string>
      <string name="header_optimizer">Korišćenjem ove usluge, slažete se sa %s.</string>
      <string name="hints_ad_header_left">Dodaj datoteke: %d</string>
      <string name="hints_apk_header_left">Instaliraj pakete: %d</string>
@@ -213,7 +213,7 @@
 	%s: 0 Original: 1
 	%d: 1 Original: 1 -->
      <!-- Original string: %1$d stvari, %2$s -->
-     <string name="hints_garbage_handle_item_content">%1$d stavki, %2$</string>
+     <string name="hints_garbage_handle_item_content">%1$d stavki, %2$s</string>
      <string name="hints_garbage_handle_item_empty_content">Prazno</string>
      <string name="hints_handle_item_text_risk">Rizik: %d</string>
      <string name="hints_handle_item_text_safe">Bezbedno</string>
@@ -292,7 +292,7 @@
 	%s: 0 Original: 1
 	%d: 1 Original: 0 -->
      <!-- Original string: Skenirano %s dni nazaj -->
-     <string name="last_checked_default">Pregledano pre %d dana</string>
+     <string name="last_checked_default">Pregledano pre %s dana</string>
      <string name="legal_workday">Praznik</string>
      <string name="legal_workday_invalidate">Pon-Pet (praznik info istekla)</string>
      <string name="legal_workday_invalidate_message">Tapnite da ažurirate informaciju o javnim praznicima.</string>

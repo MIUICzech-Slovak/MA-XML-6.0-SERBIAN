@@ -55,10 +55,6 @@
      <string name="callAgain">Zovi ponovo</string>
      <string name="callBack">Pozovi nazad</string>
      <string name="callDetailTitle">Detalji poziva</string>
-     <!-- MNPS mismatch found! Translated: 2 Original: 2
-	%s: 2 Original: 1
-	%d: 0 Original: 0 -->
-     <!-- Original string: %s minut % sekund -->
      <string name="callDetailsDurationFormat" formatted="false">%s minuta %s sekundi</string>
      <string name="callNoAnswerTimeFormat">Zvonilo %s puta</string>
      <string name="callShortcutActivityTitle">Izaberi broj za poziv</string>
@@ -914,18 +910,18 @@ Da započnete, dodirnite ikonu Združi na dnu ovog ekrana."</string>
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
      <!-- Original string: Povezan %1$s -->
-     <string name="resource_online">Povezan &amp;1$s</string>
+     <string name="resource_online">Povezan %1$s</string>
      <string name="resource_pack_confirm">Iako ste već kupili %1$d delova oive teme, i dalje je jeftinije ako kupite ceo paket.</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
      <!-- Original string: %1$s shranjen -->
-     <string name="resource_pack_discount_info">&amp;1$s sačuvan</string>
+     <string name="resource_pack_discount_info">%1$s sačuvan</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
      <!-- Original string: %1$s Originalen -->
-     <string name="resource_pack_price_info">&amp;1$s Original</string>
+     <string name="resource_pack_price_info">%1$s Original</string>
      <string name="resource_pack_warning">Već ste kupili %1$d delova ove teme. Jeftinije je ako prostale delove kupite pojedinačno.</string>
      <string name="resource_present">Poklon</string>
      <string name="resource_price_format">(%1$s)</string>
