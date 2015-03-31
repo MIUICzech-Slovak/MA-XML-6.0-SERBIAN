@@ -1,4 +1,4 @@
-<?xml version=1.0 encoding=UTF-8?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="BaMmi">Ограничавање позива</string>
   <string name="CLIRDefaultOffNextCallOff">ИД позиваоца подразумевано није ограничен. Следећи позив: Није ограничен.</string>
