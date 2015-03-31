@@ -591,7 +591,7 @@ Pokušajte ponovo ili pozovite korisničku podršku za više opcija.</string>
   <string name="third_party_account_summary">Taj nalog trebutno koristi %s aplikacija.</string>
   <string name="throttle_current_usage">Podaci korišćeni u tekućem periodu</string>
   <string name="throttle_data_rate_reduced_subtext">%1$s premašen maksimum. 
-Brzina prenosa smanjena na 2%d Kb/s</string>
+Brzina prenosa smanjena na %2$d Kb/s</string>
   <string name="throttle_data_usage">Korišćenje podataka</string>
   <string name="throttle_data_usage_subtext">%1$s (%2$d٪) of %3$s maksimalni period</string>
   <string name="throttle_help">Saznajte više</string>

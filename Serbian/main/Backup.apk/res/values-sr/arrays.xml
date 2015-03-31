@@ -27,12 +27,12 @@
         <item>Poruke</item>
      </string-array>
      <string-array name="system_data_label">
-        <item>@string/Kontakti</item>
-        <item>@string/Dnevnici poziva</item>
-        <item>@string/Poruke</item>
-        <item>@string/Multimedijalne poruke</item>
-        <item>@string/Sistemska podešavanja</item>
-        <item>@string/WLAN podešavanja</item>
+        <item>Kontakti</item>
+        <item>Dnevnici poziva</item>
+        <item>Poruke</item>
+        <item>Multimedijalne poruke</item>
+        <item>Sistemska podešavanja</item>
+        <item>WLAN podešavanja</item>
         <item>Izgled početnog ekrana</item>
         <item>Podešavanje alarma</item>
         <item>Beleške</item>
