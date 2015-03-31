@@ -550,9 +550,9 @@ Da umesto toga izaberem preferiranu?"</string>
      <string name="ota_title_activate">Aktivirajte vaš telefon</string>
      <string name="ota_title_activate_success">Telefon uspešno aktiviran.</string>
      <string name="ota_title_problem_with_activation">Aktivacija neuspešna</string>
-     <string name="ota_touch_activate">"'Potrebno je obaviti poseban poziv da aktivirate vašu telefonsku uslugu. 
+     <string name="ota_touch_activate">"Potrebno je obaviti poseban poziv da aktivirate vašu telefonsku uslugu. 
 
-Nakon tipke "Aktiviraj", slušajte instrukcije da aktivirate telefon.'"</string>
+Nakon tipke "Aktiviraj", slušajte instrukcije da aktivirate telefon."</string>
      <string name="ota_try_again">Ponovi</string>
      <string name="ota_unsuccessful">"Vaš telefon nije aktiviran. 
 Možda ćete morati da pronađete mesto sa moljim signalom (pored prozora ili napolju).

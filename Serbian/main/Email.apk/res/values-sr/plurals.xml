@@ -56,12 +56,12 @@
     <item quantity="other">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; utišanih</item>
   </plurals>
   <plurals name="conversation_not_important">
-    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjen iz fascikle 'važno'"</item>
-    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka uklonjenih iz fascikle 'važno'"</item>
+    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjen iz fascikle važno"</item>
+    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka uklonjenih iz fascikle važno"</item>
   </plurals>
   <plurals name="conversation_not_spam">
-    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjeno iz fascikle  'neželjena pošta'"</item>
-    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjenih iz fascikle  'neželjena pošta'"</item>
+    <item quantity="one">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjeno iz fascikle  neželjena pošta"</item>
+    <item quantity="other">"&amp;lt;b&gt;%1$d&amp;lt;/b&gt; uklonjenih iz fascikle  neželjena pošta"</item>
   </plurals>
   <plurals name="conversation_phished">
     <item quantity="one">&amp;lt;b&gt;%1$d&amp;lt;/b&gt; poruka prijavljena kao neželjena pošta</item>

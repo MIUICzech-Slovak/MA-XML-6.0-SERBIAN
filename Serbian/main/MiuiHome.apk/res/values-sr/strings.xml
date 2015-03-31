@@ -73,7 +73,7 @@
   <string name="gadget_photo_44_label">Slika 4x4</string>
   <string name="gadget_photo_label">Slika</string>
   <string name="gadget_search_label">Pretraži</string>
-  <string name="gadget_weather_app_not_installed">"Dodirni za preuzimanje MIUI's Vremensku aplikaciju"</string>
+  <string name="gadget_weather_app_not_installed">"Dodirni za preuzimanje MIUIs Vremensku aplikaciju"</string>
   <string name="gadget_weather_aqi_title">Kvalitet vazduha:</string>
   <string name="gadget_weather_download_message">Potrebno je da preuzmete aplikaciju: %1$s (%2$s). Restartujte aplikaciju nakon završenog preuzimanja.</string>
   <string name="gadget_weather_download_start">Preuzimanje</string>

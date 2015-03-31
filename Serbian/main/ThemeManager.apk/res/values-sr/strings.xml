@@ -59,7 +59,7 @@
      <string name="resource_apply">Primeniti</string>
      <string name="resource_apply_trial">Pokušajte sada</string>
      <string name="resource_buy">Kupiti</string>
-     <string name="resource_can_not_selected">"%1$s can't be selected"</string>
+     <string name="resource_can_not_selected">"%1$s cant be selected"</string>
      <string name="resource_category">Kategorija</string>
      <string name="resource_clear_search_history">Izbrisati pretraženu istoriju</string>
      <string name="resource_clear_search_history_dialog">Izbrisati celokupnu pretraženu istoriju.</string>

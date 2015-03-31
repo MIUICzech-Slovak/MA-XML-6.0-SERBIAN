@@ -36,7 +36,7 @@
   <string name="privacy_notif_content">Dodirnite da vidite detalje.</string>
   <string name="privacy_notif_title">Xunlei Download Accelerator je uključen</string>
   <string name="privacy_tip_cancel">Prekini</string>
-  <string name="privacy_tip_content">"Use Xunlei Accelerator da ubrzaš prenose? URL adresa će se preneti na Xunlei's servere. Preneće se takođe podaci Vašeg Mi računa, imate li neku aktivnu pretplatu tog servisa."</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator da ubrzaš prenose? URL adresa će se preneti na Xunleis servere. Preneće se takođe podaci Vašeg Mi računa, imate li neku aktivnu pretplatu tog servisa."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Upotrebi Xunlei Accelerator?</string>
   <string name="root_downloads">Prenosi</string>

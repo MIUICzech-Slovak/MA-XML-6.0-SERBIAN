@@ -89,7 +89,7 @@
   <string name="favorite_ringtone">Zvonjenje</string>
   <string name="favorite_screen_cap">Fotografija ekrana</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
-  <string name="file_already_downlaoded">'Datoteka sačuvana na "%1$s"'</string>
+  <string name="file_already_downlaoded">Datoteka sačuvana na "%1$s"</string>
   <string name="file_info_canread">Čitljivo:</string>
   <string name="file_info_canwrite">Zapisiv:</string>
   <string name="file_info_ishidden">Skriven:</string>
@@ -102,7 +102,7 @@
   <string name="finished">Završeno</string>
   <string name="folder_exist">Fascikla već postoji.</string>
   <string name="folder_name_illegal">Pogrešno ime mape</string>
-  <string name="forward_to_web_recycle_prompt">'&lt;a href="%1$s"&gt;Dodirni&lt;/a&gt;da ide u đubre'</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href="%1$s"&gt;Dodirni&lt;/a&gt;da ide u đubre</string>
   <string name="ftp_account_req_notice">4-16 znakova, slova i brojevi, razlikuje mala i velika slova</string>
   <string name="ftp_anonymous_login">Anonimna prijava</string>
   <string name="ftp_invalid_username_or_password">Pogrešno korisničko ime ili šifra.</string>

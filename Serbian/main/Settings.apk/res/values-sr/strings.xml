@@ -37,7 +37,7 @@ Ako uređaj ima više korisnika, koristeći ovu prečicu na ekranu blokade privr
      <string name="accessibility_no_services_installed">Servisi nisu instalirani</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Taster za uključenje prekida telefonski razgovor</string>
      <string name="accessibility_screen_magnification_enable">Uvećani pokreti</string>
-     <string name="accessibility_screen_magnification_summary">"'Kada je ova funkcija uključena, možete povećavati i smanjivati i trojnim-dodirom ekrana. 
+     <string name="accessibility_screen_magnification_summary">"Kada je ova funkcija uključena, možete povećavati i smanjivati i trojnim-dodirom ekrana. 
 
 Dok zumira, možete: 
 "&lt;li&gt; &lt;ul&gt;" Pan: Povucite dva ili više prstiju po ekranu.
@@ -45,7 +45,7 @@ Dok zumira, možete:
 
 " Također možete privremeno uvećati ono što je pod prstom po triple-dodirom i držanjem. U ovom uvećanom stanju, možete prstom istraživati različite delove ekrana. Podignite prst da se vrate na svoje prethodno stanje. 
 
-Napomena: Trojni-tap za uvećanje radi svuda osim u baru tastature i navigacijskom baru.'"</string>
+Napomena: Trojni-tap za uvećanje radi svuda osim u baru tastature i navigacijskom baru."</string>
      <string name="accessibility_screen_magnification_title">Uvećani pokreti</string>
      <string name="accessibility_service_default_description">Opis nije na raspolaganju.</string>
      <string name="accessibility_service_no_apps_message">TalkBack omogućava povratne informacije u obliku govora za pomoć slepim i slabovidnim korisnicima. Želite ga instalirati besplatno sa Android Marketa?</string>
@@ -195,7 +195,7 @@ Napomena: Trojni-tap za uvećanje radi svuda osim u baru tastature i navigacijsk
      <string name="auto_launch_label">Pokreni automatski</string>
      <string name="auto_launch_label_generic">Uobičajeno</string>
      <string name="auto_punctuate">Automatski znaci interpukcije</string>
-     <string name="auto_punctuate_summary">"'Pritisni Razmak taster dva puta da ubaciš "."'"</string>
+     <string name="auto_punctuate_summary">"Pritisni Razmak taster dva puta da ubaciš ".""</string>
      <string name="auto_replace">Automatska zamena</string>
      <string name="auto_replace_summary">Popravi pogrešne reči</string>
      <string name="auto_restore_summary">Kod reinstalacije aplikacije, vrati sačuvanja podešavanja i podatke</string>
@@ -342,8 +342,8 @@ Napomena: Trojni-tap za uvećanje radi svuda osim u baru tastature i navigacijsk
      <string name="bluetooth_connected_no_map">Povezan (nema pristupne poruke)</string>
      <string name="bluetooth_connecting">Povezujem...</string>
      <string name="bluetooth_connecting_error_message">Nije moguće povezati se sa %1$s.</string>
-     <string name="bluetooth_connection_dialog_text">"'Da li želite da se povežete sa "%1$s"?'"</string>
-     <string name="bluetooth_connection_notif_message">"'Dotaknite se da se povežete sa "%1$s".'"</string>
+     <string name="bluetooth_connection_dialog_text">"Da li želite da se povežete sa "%1$s"?"</string>
+     <string name="bluetooth_connection_notif_message">"Dotaknite se da se povežete sa "%1$s"."</string>
      <string name="bluetooth_connection_permission_request">Zahtev za Bluetooth vezom</string>
      <string name="bluetooth_device">Neimanovan Bluetooth uređaj</string>
      <string name="bluetooth_device_address">Adresa:</string>
@@ -710,10 +710,10 @@ Ovakvo podešavanje utiče na sve korisnike ovog telefona."</string>
      <string name="data_usage_restrict_background_title">Ograničim pozadinske podatke?</string>
      <string name="data_usage_restrict_denied_dialog">Ograničenje podataka u pozadini je moguće samo kada je podešeno ograničenje mobilnog prenosa podataka.</string>
      <string name="data_usage_summary_title">Korišćenje podataka</string>
-     <string name="data_usage_sweep_limit">"'&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;limit&lt;/font&gt;'"</string>
-     <string name="data_usage_sweep_warning">"'&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;warning&lt;/font&gt;'"</string>
+     <string name="data_usage_sweep_limit">"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;limit&lt;/font&gt;"</string>
+     <string name="data_usage_sweep_warning">"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
+"&lt;font size="12"&gt;warning&lt;/font&gt;"</string>
      <string name="data_usage_tab_3g">2G-3G</string>
      <string name="data_usage_tab_4g">4G</string>
      <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1082,7 +1082,7 @@ Ako je sistemski tekst i dalje suviše mali, pokušajte da koristite"</string>
      <string name="hidden_ssid_label">Sakriven SSID:</string>
      <string name="high_performance_notif_summary">Performance režim je uključen.</string>
      <string name="high_performance_notif_title">Upozorenje o korišćenju baterije</string>
-     <string name="high_performance_title">"'Izgleda da ste pokrenuli benchmark test. Podesite upravljanje snagom na \"Performance\" za bolje rezultate. '"</string>
+     <string name="high_performance_title">"Izgleda da ste pokrenuli benchmark test. Podesite upravljanje snagom na \"Performance\" za bolje rezultate. "</string>
      <string name="history_details_title">Detalji istorije</string>
      <string name="home_app_uninstall_button">Deinstaliraj ovu aplikaciju</string>
      <string name="home_key">Kući</string>
@@ -1304,17 +1304,17 @@ Vi ste trenutno prijavljeni na sledeće račune:"</string>
      <string name="master_clear_all">izbriši sve podatke iz interne memorije. OVa akcija nije reverzibilna!</string>
      <string name="master_clear_button_text">Resetuj telefon</string>
      <string name="master_clear_confirm_title">Reset?</string>
-     <string name="master_clear_desc">"'Ovo će izbrisati sve podatke na telefonu "&lt;b&gt;internu memoriju&lt;b&gt;", uključujući:
+     <string name="master_clear_desc">"Ovo će izbrisati sve podatke na telefonu "&lt;b&gt;internu memoriju&lt;b&gt;", uključujući:
 
 "&lt;li&gt;Vaš Google nalog&lt;/li&gt;"
 "&lt;li&gt;Sistemke i podatke aplikacija i Podešavanja&lt;/li&gt;"
-"&lt;li&gt;Prenos aplikacjia&lt;/li&gt;'"</string>
-     <string name="master_clear_desc_also_erases_external">"'&lt;li&gt;Muzika&lt;/li&gt;"
+"&lt;li&gt;Prenos aplikacjia&lt;/li&gt;"</string>
+     <string name="master_clear_desc_also_erases_external">"&lt;li&gt;Muzika&lt;/li&gt;"
 "&lt;li&gt;Potografije&lt;/li&gt;"
-"&lt;li&gt;Ostali korisnički podaci&lt;/li&gt;'"</string>
-     <string name="master_clear_desc_erase_external_storage">"'" 
+"&lt;li&gt;Ostali korisnički podaci&lt;/li&gt;"</string>
+     <string name="master_clear_desc_erase_external_storage">"" 
 
-Da bi obrisali muziku, fotografije i druge korisničke podatke na "&lt;b&gt;USB memorija&lt;/b&gt; tr'"</string>
+Da bi obrisali muziku, fotografije i druge korisničke podatke na "&lt;b&gt;USB memorija&lt;/b&gt; tr"</string>
      <string name="master_clear_erase_application_progress">Brišem aplikacije...</string>
      <string name="master_clear_failed">Reset nije izveden jer Sistem Clear nije na raspolaganju</string>
      <string name="master_clear_final_button_text">Izbriši sve</string>
@@ -1671,7 +1671,7 @@ Izaberi svoj operativni sistem:"</string>
      <string name="preferred_media_app_summary">Izaberi muzički plejer</string>
      <string name="preferred_sms_settings">Ova plaikacija će biti postavljena kao podrazumevana za čitanje i kreiranje tekstualnih oruka. </string>
      <string name="preferred_sms_title">Podrazumevana aplikacija za poruke</string>
-     <string name="preferred_sms_warning_message">"'Koristeći "%1$s" kao podrazumevanu za porukemožete povećati potrošnju podataka ili ugroziti bezbednost vaših podataka.'"</string>
+     <string name="preferred_sms_warning_message">"Koristeći "%1$s" kao podrazumevanu za porukemožete povećati potrošnju podataka ili ugroziti bezbednost vaših podataka."</string>
      <string name="preferred_sms_warning_use_system">Ne koristi</string>
      <string name="print_blocked_state_title_template">Štampač blokiran %1$s</string>
      <string name="print_cancel">Prekini</string>
@@ -1827,7 +1827,7 @@ Izaberi svoj operativni sistem:"</string>
      <string name="rebootiing_for_updates">Restartujem...</string>
      <string name="recent_location_requests_summary">Aplikacije ispod zahtevaju uvid u podatke o lokaciji</string>
      <string name="recent_location_requests_title">Pristup lokaciji</string>
-     <string name="recognizer_settings_summary">"Podešavanja za '%s'"</string>
+     <string name="recognizer_settings_summary">"Podešavanja za %s"</string>
      <string name="recognizer_settings_title">Glasovna pretraga</string>
      <string name="recognizer_title">Prepoznavanje glasa</string>
      <string name="recompute_size">Preračunavam veličinu...</string>
@@ -1839,7 +1839,7 @@ Izaberi svoj operativni sistem:"</string>
      <string name="remove_from_frequently_fragment">Ukloni %s iz Brzih podešavanja</string>
      <string name="reset_app_preferences">Resetuj preferencije aplikacije</string>
      <string name="reset_app_preferences_button">Resetuj aplikacije</string>
-     <string name="reset_app_preferences_desc">"'Ovo će resetovati sve preferencije za:  
+     <string name="reset_app_preferences_desc">"Ovo će resetovati sve preferencije za:  
 
 "&lt;li&gt;Isključene aplikacije&lt;/li&gt;"  
 "&lt;li&gt;Isključena obaveštenja aplikacija&lt;/li&gt;"
@@ -1847,7 +1847,7 @@ Izaberi svoj operativni sistem:"</string>
 "&lt;li&gt;Zabrana pozadinsih podataka za aplikacije&lt;/li&gt;"  
 "&lt;li&gt;Sve dozvole ograničene&lt;/li&gt;" 
 
-Nećete izgubiti nikakve podatke aplikacija'"</string>
+Nećete izgubiti nikakve podatke aplikacija"</string>
      <string name="reset_app_preferences_title">Resetuj preferencije aplikacija?</string>
      <string name="reset_legacy_password_settings_preface_text">Morate resetovati vašu lozinku zaključavanja ekrana</string>
      <string name="resource_ringtone_volume_mute">Vaše zvono je trenutno utišano</string>
@@ -2233,8 +2233,8 @@ Instalirane akreditacije na uređaju mu to omogućavaju."</string>
      <string name="sync_menu_sync_cancel">PRekini sinhronizaciju</string>
      <string name="sync_menu_sync_now">Sinhronizuj sada</string>
      <string name="sync_one_time_sync">Dotakni za početak sinhronizacije %1$s</string>
-     <string name="sync_plug">"'&lt;font fgcolor="#ffffffff"&gt;Dobrodošli u Google sinhronizaciju!&lt;/font&gt;"
- Google sinhronizuje podatke tako, što vam omogućava pristup do kontakata, sastanaka i više od toga, gde god da ste."'"</string>
+     <string name="sync_plug">"&lt;font fgcolor="#ffffffff"&gt;Dobrodošli u Google sinhronizaciju!&lt;/font&gt;"
+ Google sinhronizuje podatke tako, što vam omogućava pristup do kontakata, sastanaka i više od toga, gde god da ste.""</string>
      <string name="sync_settings">Sinhronizuj</string>
      <string name="sync_wifi_label">WLAN</string>
      <string name="sync_wifi_only">Samo WLAN</string>
@@ -2808,9 +2808,9 @@ Dozvolite ovo za sve aplikacije koje traže skeniranje?"</string>
      <string name="wifi_setup_back">Nazad</string>
      <string name="wifi_setup_cancel">Prekini</string>
      <string name="wifi_setup_connect">Poveži</string>
-     <string name="wifi_setup_description_connected">"'Dotaknite &lt;b&gt;Next&lt;/b&gt;" da nastavite sa podešavanjem. 
+     <string name="wifi_setup_description_connected">"Dotaknite &lt;b&gt;Next&lt;/b&gt;" da nastavite sa podešavanjem. 
 
-Dotaknite "&lt;b&gt;Back&lt;/b&gt; da se povežete sa drugom WLAN mrežom.'"</string>
+Dotaknite "&lt;b&gt;Back&lt;/b&gt; da se povežete sa drugom WLAN mrežom."</string>
      <string name="wifi_setup_description_connecting">Povezivanje može trajati nekoliko minuta...</string>
      <string name="wifi_setup_detail">Detalji mreže</string>
      <string name="wifi_setup_eap_not_supported">Tokom podešavanja nije moguće konfigurisati EAP WLAN vezu. Nakon podešavanja, možete otići na Podešavanja &gt; Bežično i mreže</string>
@@ -2934,7 +2934,7 @@ Podešavanje telefona zahteva značajnu aktivnost na mreži."</string>
      <string name="wifi_wps_failed_tkip">Bežična bezbednosna podešavanja (TKIP) nisu podržana</string>
      <string name="wifi_wps_failed_wep">Bežična bezbednosna podešavanja (WEP) nisu podržana</string>
      <string name="wifi_wps_in_progress">WPS je već u toku i trajaće  do dva minuta da završi</string>
-     <string name="wifi_wps_onstart_pbc">"'Pritisnite WLAN Protected Setup taster na vašem ruteru. Možda se zove i "WPS" ili sadrži ovaj simbol:'"</string>
+     <string name="wifi_wps_onstart_pbc">"Pritisnite WLAN Protected Setup taster na vašem ruteru. Možda se zove i "WPS" ili sadrži ovaj simbol:"</string>
      <string name="wifi_wps_onstart_pin">Unesite pin %1$s na vaš WLAN ruter. Podešavanje može trajati do dva minuta.</string>
      <string name="wifi_wps_overlap_error">Druga WLAN sesija je otkrivena. Sačekajte minut ili dva i pokušajte ponovo.</string>
      <string name="wifi_wps_setup_msg">Pokrećem WPS...</string>

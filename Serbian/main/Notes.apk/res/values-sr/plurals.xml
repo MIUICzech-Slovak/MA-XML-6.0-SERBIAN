@@ -5,7 +5,7 @@
     <item quantity="other">%1$s beleški</item>
   </plurals>
   <plurals name="search_results_title">
-    <item quantity="one">'%1$s rezultat za "%2$s"'</item>
-    <item quantity="other">'%1$s rezultata za "%2$s"'</item>
+    <item quantity="one">%1$s rezultat za "%2$s"</item>
+    <item quantity="other">%1$s rezultata za "%2$s"</item>
   </plurals>
 </resources>

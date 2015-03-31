@@ -140,7 +140,7 @@
   <string name="outdoor_temp_unknown">Nepoznato</string>
   <string name="please_enter">Ulazno polje ne može biti prazno</string>
   <string name="power">Snaga</string>
-  <string name="privacy_content">'"Koriščenjem ovog proizvoda saglasni ste sa našom  "&lt;u&gt;Zaštitom Privatnosti&lt;/u&gt; i &lt;u&gt;Uslovima Korišćenja&lt;/u&gt;. '</string>
+  <string name="privacy_content">"Koriščenjem ovog proizvoda saglasni ste sa našom  "&lt;u&gt;Zaštitom Privatnosti&lt;/u&gt; i &lt;u&gt;Uslovima Korišćenja&lt;/u&gt;. </string>
   <string name="privacy_nohit">Ne pokazuj ponovo</string>
   <string name="privacy_title">Uslovi i način korišćenja</string>
   <string name="projection_failed_for_disconnect">Nespojeno</string>

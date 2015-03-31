@@ -120,7 +120,7 @@
   <string name="pref_title_enable_max_bytes_popup">Prikaži podatke o potrošnji</string>
   <string name="preferences_title">Podešavanja</string>
   <string name="privacy_tip_cancel">Prekini</string>
-  <string name="privacy_tip_content">"Upotrebi Xunlei Accelerator za ubrzanje prenosa? URL servera će biti poslana Xunlei's serverima. Vaš Mi nalog će takođe biti prosleđen zbog provere da li imate pretplatu na ovaj servis."</string>
+  <string name="privacy_tip_content">"Upotrebi Xunlei Accelerator za ubrzanje prenosa? URL servera će biti poslana Xunleis serverima. Vaš Mi nalog će takođe biti prosleđen zbog provere da li imate pretplatu na ovaj servis."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Upotrebi Xunlei Acceleratorubrzivač?</string>
   <string name="remove_download">Odstrani</string>

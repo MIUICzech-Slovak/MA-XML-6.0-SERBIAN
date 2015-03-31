@@ -112,10 +112,10 @@
      <string name="bottom_bar_tabs_long_click_up_tip_txt">povuci da zatvoriš</string>
      <string name="browserFrameFileErrorLabel">Problem sa datotekom</string>
      <string name="browserFrameFormResubmitLabel"></string>
-     <string name="browserFrameFormResubmitMessage">"'Strana koju pokušavate da vidite sadrži podatke koji su već potvrđeni (\"POSTDATA\"). Ukoliko ponovo pošaljete podatke, sve šta ste radili na toj strani (pretraga ili kupovina preko mreže) će biti ponovljeno.'"</string>
+     <string name="browserFrameFormResubmitMessage">"Strana koju pokušavate da vidite sadrži podatke koji su već potvrđeni (\"POSTDATA\"). Ukoliko ponovo pošaljete podatke, sve šta ste radili na toj strani (pretraga ili kupovina preko mreže) će biti ponovljeno."</string>
      <string name="browserFrameNetworkErrorLabel">Problem sa povezivanjem</string>
      <string name="cancel">Prekini</string>
-     <string name="cannot_download">"'Mogu da prenesem samo "http" ili "https" URL-e'"</string>
+     <string name="cannot_download">"Mogu da prenesem samo "http" ili "https" URL-e"</string>
      <string name="choose_upload">Izaberi datoteku za slanje</string>
      <string name="choosertitle_sharevia">Deli preko</string>
      <string name="clear">Očisti</string>
@@ -195,8 +195,8 @@
      <string name="date_time_picker_dialog_title">Podesi datum i vreme</string>
      <string name="delete">Izbriši</string>
      <string name="delete_bookmark">ukloni marker</string>
-     <string name="delete_bookmark_group_warning">"'Izbriši "%s"? Svi markeri u toj grupi će biti izbrisani.'"</string>
-     <string name="delete_bookmark_warning">"'Izbriši marker "%s"?'"</string>
+     <string name="delete_bookmark_group_warning">"Izbriši "%s"? Svi markeri u toj grupi će biti izbrisani."</string>
+     <string name="delete_bookmark_warning">"Izbriši marker "%s"?"</string>
      <string name="delete_folder">Izbriši mapu</string>
      <string name="delete_multi_bookmarks_alert_title">Izbriši %1$s postavke?</string>
      <string name="dialog_geolocation_reject">Zabrani</string>
@@ -625,7 +625,7 @@
      <string name="share_page_text">Uživam 【%1$s】 | %2$s</string>
      <string name="show_check_security_url_check_tip_dialog_description">URL sajta će biti poslana Xiaomi serverima na bezbednosnu proveru. Ovu funkciju možete uvek isključiti u Podešavanja</string>
      <string name="show_check_security_url_check_tip_dialog_title">Proveri bezbednost URL</string>
-     <string name="sign_in_to" formatted="false">"'Prijavi se za %s1 "%s2"'"</string>
+     <string name="sign_in_to" formatted="false">"Prijavi se za %s1 "%s2""</string>
      <string name="snapshot_failed">Nije moguće sačuvati za offline čitanje</string>
      <string name="snapshot_go_live">U živo</string>
      <string name="snapshot_successed">Uspešno sačuvano za offline čitanje</string>
@@ -744,7 +744,7 @@ Napusti ovu stranu?"</string>
      <string name="webview_js_dialog_before_unload_negative_button">Ostani</string>
      <string name="webview_js_dialog_before_unload_positive_button">Napusti</string>
      <string name="webview_js_dialog_before_unload_title">Napusti ovu stranu?</string>
-     <string name="webview_js_dialog_title">"'Strana na "%s" kaže:'"</string>
+     <string name="webview_js_dialog_title">"Strana na "%s" kaže:"</string>
      <string name="webview_js_dialog_title_default">JavaScript</string>
      <string name="webview_last_month">Prošli mesec</string>
      <string name="webview_no_matches">Nema istih</string>

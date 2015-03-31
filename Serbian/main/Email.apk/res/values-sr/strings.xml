@@ -17,7 +17,7 @@
      <string name="abc_shareactionprovider_share_with">Deli sa</string>
      <string name="abc_shareactionprovider_share_with_application">Deli sa %s</string>
      <string name="account_cache_provider">Račun ponuđača predmemorije</string>
-     <string name="account_duplicate_dlg_message_fmt">"'Već koristite korisničko ime za nalog \"%s\".'"</string>
+     <string name="account_duplicate_dlg_message_fmt">"Već koristite korisničko ime za nalog \"%s\"."</string>
      <string name="account_duplicate_dlg_title">Dupliraj nalog</string>
      <string name="account_folder_list_summary_drafts">U pripremi</string>
      <string name="account_folder_list_summary_inbox">Prijemno sanduče</string>
@@ -273,7 +273,7 @@
      <string name="cc_attribution">Cc: %1$s&lt;br&gt;</string>
      <string name="cc_bcc">Cc/Bcc</string>
      <string name="cc_heading">Cc: </string>
-     <string name="change_account_confirm">"'Nalog "%1$s" će biti uklonjen iz Poruka.'"</string>
+     <string name="change_account_confirm">"Nalog "%1$s" će biti uklonjen iz Poruka."</string>
      <string name="change_account_type">Promeni tip naloga</string>
      <string name="change_folders_selection_dialog_title">Promeni fascikle</string>
      <string name="change_sync_settings">Promeni sinhronizacijska podešavanja</string>
@@ -663,7 +663,7 @@ CC: %4$s"</string>
      <string name="password_expire_warning_content_title">Lozinka zaključavanja ekrana ističe</string>
      <string name="password_expire_warning_dialog_content_fmt">Uskoro morate zameniti lozinku ili PIN zaključavanja ekrana, u suprotnom, podaci za %s će biti izbrisani. Da li želite da promenite sada?</string>
      <string name="password_expire_warning_dialog_title">Lozinka zaključavanja ekrana ističe</string>
-     <string name="password_expire_warning_ticker_fmt">"'"%s" zahteva da promenite lozinku ili PIN zaključavanja ekrana.'"</string>
+     <string name="password_expire_warning_ticker_fmt">""%s" zahteva da promenite lozinku ili PIN zaključavanja ekrana."</string>
      <string name="password_expired_content_title">Lozinka zaključavanja ekrana je istekla</string>
      <string name="password_expired_dialog_content_fmt">Podaci za %s će biti izbrisani sa vašeg uređaja. Možete ih oporaviti promenom lozinke ili PIN zaključavanja ekrana. Da li želite da promenite sada?</string>
      <string name="password_expired_dialog_title">Lozinka zaključavanja ekrana je istekla</string>
@@ -742,7 +742,7 @@ CC: %4$s"</string>
      <string name="protocol_imap">imap</string>
      <string name="protocol_legacy_imap">imap</string>
      <string name="protocol_pop3">pop3</string>
-     <string name="provider_note_live">"'Samo neki \"Plus\" nalozi uključuju POP protokoldozvoljavajući programu da se poveže. Ako niste u mogućnosti das e prijavite vašom pravom lozinkom i mailom, možda nemate komercijalni \"Plus\" nalog. Pokrenite čitač da dobijete pristup do tih naloga.'"</string>
+     <string name="provider_note_live">"Samo neki \"Plus\" nalozi uključuju POP protokoldozvoljavajući programu da se poveže. Ako niste u mogućnosti das e prijavite vašom pravom lozinkom i mailom, možda nemate komercijalni \"Plus\" nalog. Pokrenite čitač da dobijete pristup do tih naloga."</string>
      <string name="provider_note_t_online">Pre nego podesite ovaj email nalog, posetite T-Online websajt i kreirajte lozinku za POP3 pristup mailu.</string>
      <string name="pull_to_refresh">Povucite na dole da osvežite</string>
      <string name="quick_1">Hvala!</string>
@@ -754,7 +754,7 @@ CC: %4$s"</string>
      <string name="quick_reply_hint_bcc">(Na BCC)</string>
      <string name="quick_reply_hint_cc">(Na CC)</string>
      <string name="quick_responses_empty_view">Nema brzih odgovora</string>
-     <string name="quote_begin">"'&lt;div class="quote"&gt;'"</string>
+     <string name="quote_begin">"&lt;div class="quote"&gt;"</string>
      <string name="quote_divider_1">-------- 原始邮件 --------</string>
      <string name="quote_divider_10">-----------------------------------</string>
      <string name="quote_divider_11">----- 原文 -----</string>
@@ -796,7 +796,7 @@ CC: %4$s"</string>
      <string name="remote_search">Sva elektronska pošta na serveru</string>
      <string name="remote_search_result">%s elektronska pošta na serveru</string>
      <string name="remove_account">Ukloni nalog</string>
-     <string name="remove_account_confirm">"\'\"%1$s\" biće uklonjeni iz Pošte.\'"</string>
+     <string name="remove_account_confirm">"\\"%1$s\" biće uklonjeni iz Pošte.\"</string>
      <string name="remove_folder">Ukloni od %1$s</string>
      <string name="remove_star">Ukloi zvezdu</string>
      <string name="reply">Odgovori</string>
@@ -830,12 +830,12 @@ CC: %4$s"</string>
      <string name="search_title">Združena pošta</string>
      <string name="search_txt_size_limit_prompt">Traženi termin mora biti duži od 3 karaktera</string>
      <string name="search_unsupported">Na ovom nalogu pretraga nije podržana.</string>
-     <string name="security_changed_ticker_fmt">"'Nalog"%s" je promenio svoja bezbednosna podešavanja; nikakva korisnička akcija nije potrebna.'"</string>
-     <string name="security_needed_ticker_fmt">"'Nalog "%s" zahteva ažuriranje bezbednosnog podešavanja.'"</string>
+     <string name="security_changed_ticker_fmt">"Nalog"%s" je promenio svoja bezbednosna podešavanja; nikakva korisnička akcija nije potrebna."</string>
+     <string name="security_needed_ticker_fmt">"Nalog "%s" zahteva ažuriranje bezbednosnog podešavanja."</string>
      <string name="security_notification_content_change_title">Bezbednosna politika je promenjena</string>
      <string name="security_notification_content_unsupported_title">Bezbednosna politika je dostignuta</string>
      <string name="security_notification_content_update_title">Potrebno je izvesti bezbednosno ažuriranje</string>
-     <string name="security_unsupported_ticker_fmt">"'Nalog \"%s\" ne može biti sinhronizovan zbog sigurnosnih zahteva.'"</string>
+     <string name="security_unsupported_ticker_fmt">"Nalog \"%s\" ne može biti sinhronizovan zbog sigurnosnih zahteva."</string>
      <string name="select_attachment_type">Izaberite prilog od:</string>
      <string name="select_no_file">Ni jedan prilog nije izabran</string>
      <string name="send">Pošalji</string>
@@ -852,11 +852,11 @@ CC: %4$s"</string>
      <!-- Original string: Izberite strežnik -->
      <string name="sent_folder_selection_title">Izaberite fasciklu poslanih poruka za %s</string>
      <string name="ser_resp_err_map_certificate_validator_err">"Nije moguće proveriti sertifikat servera.
-\u0009 (Uverite se da  'Automatsko vreme sinhronizacije' u Podašavanja je uključeno)"</string>
+\u0009 (Uverite se da  Automatsko vreme sinhronizacije u Podašavanja je uključeno)"</string>
      <string name="ser_resp_err_map_nouser">Korisnik ne postoji</string>
      <string name="ser_resp_err_map_or">ili</string>
      <string name="ser_resp_err_map_serclosed">Server je ugašen</string>
-     <string name="ser_resp_err_map_ssl">"Izaberite 'SSL/TLS (Prihvati sve sertifikate)' u Tip Bezbednosti'"</string>
+     <string name="ser_resp_err_map_ssl">"Izaberite SSL/TLS (Prihvati sve sertifikate) u Tip Bezbednosti"</string>
      <string name="set_network">Podesi mrežu</string>
      <string name="settings_activity_title">Podešavanja</string>
      <string name="sharing">Deli</string>
@@ -941,7 +941,7 @@ CC: %4$s"</string>
      <string name="veiled_summary_unknown_person"></string>
      <string name="via_domain">pomoću %1$s</string>
      <string name="view_more_conversations">Pogledaj još prepiski</string>
-     <string name="wait_for_manual_sync_body">"'Ovaj nalog nije podešen da se sinhronizuje automatski. Dodirnite "&lt;b&gt;Sync Now&lt;/b&gt; da sinhronizujete poštu jednom ili &lt;b&gt;Promeni Sinhronizacijska Podešavanja&lt;b&gt; da podesite automatsku sinhronizaciju ovog naloga.'"</string>
+     <string name="wait_for_manual_sync_body">"Ovaj nalog nije podešen da se sinhronizuje automatski. Dodirnite "&lt;b&gt;Sync Now&lt;/b&gt; da sinhronizujete poštu jednom ili &lt;b&gt;Promeni Sinhronizacijska Podešavanja&lt;b&gt; da podesite automatsku sinhronizaciju ovog naloga."</string>
      <string name="wait_for_sync_body">Vaša pošta će se uskoro pojaviti.</string>
      <string name="wait_for_sync_body_2">Exchange Server će se odazvati za 1–30 sekundi. Potvrdite bezbednosna podešavanja i aktivirajte vaše poštansko sanduče.</string>
      <string name="wait_for_sync_body_txt_array_1">Exchange Server će vas pozvati za</string>

@@ -396,8 +396,8 @@ Ukupno: RMB %3$s"</string>
      <!-- MNPS mismatch found! Translated: 2 Original: 3
 	%s: 2 Original: 3
 	%d: 0 Original: 0 -->
-     <!-- Original string: "Prejeli ste darilno kodo (%2$s) za to temo %1$s v MIUI's Theme Store. Pritisnite %3$s za sedanjo uporabo." -->
-     <string name="resource_exchange_share_code_content">"Prihvatili ste dodeljeni kod (%2$s) za temu %1$s in MIUI's Theme Store. Ukucajte  "</string>
+     <!-- Original string: "Prejeli ste darilno kodo (%2$s) za to temo %1$s v MIUIs Theme Store. Pritisnite %3$s za sedanjo uporabo." -->
+     <string name="resource_exchange_share_code_content">"Prihvatili ste dodeljeni kod (%2$s) za temu %1$s in MIUIs Theme Store. Ukucajte  "</string>
      <string name="resource_exchange_share_code_dlg_content">Dodeljen kod za %1$s: %2$s. Kada ga pošaljete drugom MIUI korisniku, </string>
      <string name="resource_exchange_share_code_dlg_title">Slanje</string>
      <string name="resource_exchange_success">Uživajte! :)</string>
@@ -507,19 +507,19 @@ Ukupno: RMB %3$s"</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 2
 	%s: 1 Original: 2
 	%d: 0 Original: 0 -->
-     <!-- Original string: Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s. -->
-     <string name="user_notice_identify_summary_format">"'Vaš telefon će upotrebiti MIUI bazu podataka da blokira nepoželjne pozive kada je povezan na WLAN. Pritiskom na \\"Agree\\" saglasni ste sa Xiaomi %1$s i '"</string>
+     <!-- Original string: Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s. -->
+     <string name="user_notice_identify_summary_format">"Vaš telefon će upotrebiti MIUI bazu podataka da blokira nepoželjne pozive kada je povezan na WLAN. Pritiskom na \\"Agree\\" saglasni ste sa Xiaomi %1$s i "</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 2
 	%s: 1 Original: 2
 	%d: 0 Original: 0 -->
-     <!-- Original string: Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s. -->
-     <string name="user_notice_identify_summary_format_cta">"'Vaš telefon će upotrebiti MIUI bazu podataka da blokira nepoželjne pozive kada je povezan na WLAN. Pritiskom na \\"Agree\\" saglasni ste sa Xiaomi %1$s i '"</string>
-     <string name="user_notice_yp_detail_summary_format">"'Neke od vaših označenih fascikli su zastarele. Želite li da ih ažurirate? Pritiskom na \\"Agree\\" saglasni ste sa Xiaomi %1$s i %2$s.'"</string>
+     <!-- Original string: Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s. -->
+     <string name="user_notice_identify_summary_format_cta">"Vaš telefon će upotrebiti MIUI bazu podataka da blokira nepoželjne pozive kada je povezan na WLAN. Pritiskom na \\"Agree\\" saglasni ste sa Xiaomi %1$s i "</string>
+     <string name="user_notice_yp_detail_summary_format">"Neke od vaših označenih fascikli su zastarele. Želite li da ih ažurirate? Pritiskom na \\"Agree\\" saglasni ste sa Xiaomi %1$s i %2$s."</string>
      <!-- MNPS mismatch found! Translated: 0 Original: 2
 	%s: 0 Original: 2
 	%d: 0 Original: 0 -->
-     <!-- Original string: Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\'s %1$s in %2$s.  -->
-     <string name="user_notice_yp_detail_summary_format_cta">"'Neke od vaših fascikli su zastarele. Da li želite da ih ažurirate? Pritiskom na  \"Agree\" saglasni ste sa '"</string>
+     <!-- Original string: Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z dotikom na \\"Strinjam\\" se strinjate z Xiaomi\s %1$s in %2$s.  -->
+     <string name="user_notice_yp_detail_summary_format_cta">"Neke od vaših fascikli su zastarele. Da li želite da ih ažurirate? Pritiskom na  \"Agree\" saglasni ste sa "</string>
      <string name="voicemail">Govorna pošta</string>
      <string name="web_permission_message">%1$s mora videti vaš %2$s da bi radio ispravno.</string>
      <string name="yellow_page_website">Zvanični sajt</string>

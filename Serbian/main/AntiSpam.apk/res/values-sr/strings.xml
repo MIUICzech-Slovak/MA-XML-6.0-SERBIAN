@@ -49,7 +49,7 @@
      <string name="addwhitelist">Dodaj medju izuzetke</string>
      <string name="all_address_choose_hint">Svi brojevi u toj oblasti</string>
      <string name="app_name">Blocklist</string>
-     <string name="backsound_set_hint">"'Podesite svoju "na putu" poruku na %s?'"</string>
+     <string name="backsound_set_hint">"Podesite svoju "na putu" poruku na %s?"</string>
      <string name="baidu_thanks">Sponzor: Baidu</string>
      <string name="bl_block_info" formatted="false">Pozivi: %d | SMS: %d</string>
      <string name="bl_no_blacklist">Nema blokiranih brojeva.</string>
@@ -245,7 +245,7 @@ Upotrebite zarez za razdvajanje više ključnih reči)"</string>
      <string name="st_sms_group">Poruke</string>
      <string name="st_sub_title_customize_mode_name">Ime</string>
      <string name="st_sub_title_whiteblack_list_group">Blocklist</string>
-     <string name="st_sum_call_wait">"'Vaša "odsutan" poruka će takodje biti reprodukovana kao signal zauzeća za sve pozive.'"</string>
+     <string name="st_sum_call_wait">"Vaša "odsutan" poruka će takodje biti reprodukovana kao signal zauzeća za sve pozive."</string>
      <string name="st_title_adblock_group">Blokiranje ogasa</string>
      <string name="st_title_adblock_setting">Podešavanja blokiranja oglasa</string>
      <string name="st_title_addblacklist">Dodaj na blocklist-u</string>
@@ -255,11 +255,11 @@ Upotrebite zarez za razdvajanje više ključnih reči)"</string>
      <string name="st_title_anticomintcall_backsound_setting">Poruka se reprodukuje blokiranim brojevima</string>
      <string name="st_title_antispam_mode">Pravila</string>
      <string name="st_title_back_sound_busy">Zauzet</string>
-     <string name="st_title_back_sound_choose">"'Poruka "odsutan"'"</string>
+     <string name="st_title_back_sound_choose">"Poruka "odsutan""</string>
      <string name="st_title_back_sound_closed">Isključen</string>
      <string name="st_title_back_sound_none">Broj ne postoji</string>
      <string name="st_title_back_sound_stop">Ne radi</string>
-     <string name="st_title_backsound_group">"'Poruka "odsutan"'"</string>
+     <string name="st_title_backsound_group">"Poruka "odsutan""</string>
      <string name="st_title_blacklist_numbers">Blokirani brojevi</string>
      <string name="st_title_call_wait">Obaveštenje za poziv na čekanju</string>
      <string name="st_title_call_wait_setting">Poziv na čekanju</string>

@@ -134,7 +134,7 @@
      <string name="higher_quality_music">Visok kvalitet zvuka</string>
      <string name="higher_quality_music_summary">Pretakanje i preuzimanje zvučnih datoteka visokog kvaliteta</string>
      <string name="i_know">OK</string>
-     <string name="impunity_declaration">"'Mrežni sadržaj je dostavljen od strane Baidu Online Music Service. Korišćenjem servisa se slažete sa Baidu  "&lt;a href="http://music.baidu.com/doc/agreement"&gt; Uslovi Korišćenja&lt;/a&gt;. '"</string>
+     <string name="impunity_declaration">"Mrežni sadržaj je dostavljen od strane Baidu Online Music Service. Korišćenjem servisa se slažete sa Baidu  "&lt;a href="http://music.baidu.com/doc/agreement"&gt; Uslovi Korišćenja&lt;/a&gt;. "</string>
      <string name="impunity_declaration_ignore">Ne prikaži ponovo</string>
      <string name="impunity_declaration_settings">Prikaži Uslove Korišćenja</string>
      <string name="impunity_declaration_summary">Prikaži Uslove Korišćenja Baidu Online Music Service svaki put kada se otvori aplikacija Muzika</string>

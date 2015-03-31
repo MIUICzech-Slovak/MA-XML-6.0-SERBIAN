@@ -252,5 +252,5 @@
   <string name="SysOpt_Boost_Boot">Start</string>
   <string name="SysOpt_Boost_Receiver">Pozadina</string>
   <string name="app_name">Upravljanje pravima</string>
-  <string name="permisson_reject_notice_toast_text">'\\"%1$s\\" nemate dozvolu do %2$s. Možete promeniti dozvolu bilo kada u Bezbednost &gt; Dozvole.'</string>
+  <string name="permisson_reject_notice_toast_text">\\"%1$s\\" nemate dozvolu do %2$s. Možete promeniti dozvolu bilo kada u Bezbednost &gt; Dozvole.</string>
 </resources>

@@ -115,8 +115,8 @@ sa prijateljima"</string>
      <string name="cloud_tab_albums">Albumi</string>
      <string name="cloud_tab_all">Sve</string>
      <string name="cloudfolder_already_exists">Fascikla sa istim imenom već postoji</string>
-     <string name="cloudfolder_cannot_start_with">"Ime fascikle ne može započeti sa '%s'"</string>
-     <string name="cloudfolder_contain_invalidate_char">"Ime fascikle ne može sadržati '%s'"</string>
+     <string name="cloudfolder_cannot_start_with">"Ime fascikle ne može započeti sa %s"</string>
+     <string name="cloudfolder_contain_invalidate_char">"Ime fascikle ne može sadržati %s"</string>
      <string name="cloudfolder_fail_to_load_data">Podaci nisu mogli biti učitani. Sačekajte minut ili dva i pokušajte ponovo.</string>
      <string name="cloudfolder_loading_data">(Učitavam...)</string>
      <string name="cloudfolder_name_cannot_empty">Unesite ime fascikle</string>
@@ -127,7 +127,7 @@ sa prijateljima"</string>
      <string name="confirm_delete">Izbriši %s fotografije?</string>
      <string name="confirm_delete_album" formatted="false">Izbriši %s albume (%s stavki ukupno)?</string>
      <string name="confirm_delete_has_local_image_video">Izbriši %s stavke?</string>
-     <string name="confirm_delete_init_message">"'Fotografije će biti izbrisane sa uređaja i Mi oblaka. Ako želite da ih izbrišete samo sa uređaja, pokušajte ovu akciju unutar kartice "Lokalno".'"</string>
+     <string name="confirm_delete_init_message">"Fotografije će biti izbrisane sa uređaja i Mi oblaka. Ako želite da ih izbrišete samo sa uređaja, pokušajte ovu akciju unutar kartice "Lokalno"."</string>
      <string name="confirm_delete_init_title">Izbriši fotografiju</string>
      <string name="confirm_delete_system_album">%s je sistemski album.</string>
      <string name="confirm_download">Morate preuzeti %s.</string>
@@ -368,7 +368,7 @@ uređaj"</string>
      <string name="not_auto_create_recent_album">Vrati na staro kreiranje omiljenih </string>
      <string name="not_show_hidden_albums">Ne prikaži skrivene albume</string>
      <string name="only_show_camera_in_first_page">Prikaži samo camera roll</string>
-     <string name="only_show_camera_in_first_page_summary">"Prikaži samo potografije iz Mi Cloud's camera roll"</string>
+     <string name="only_show_camera_in_first_page_summary">"Prikaži samo potografije iz Mi Clouds camera roll"</string>
      <string name="open">Omogući</string>
      <string name="open_public_message">Kreiraj URL da deliš sa prijateljima</string>
      <string name="open_public_title">Deli</string>
@@ -434,7 +434,7 @@ uređaj"</string>
      <string name="qq">QQ</string>
      <string name="qqbrowser_img">QQ čitač</string>
      <string name="qsbk_save">QSBK</string>
-     <string name="quotation">"'"%s"'"</string>
+     <string name="quotation">""%s""</string>
      <string name="qzone">QZone</string>
      <string name="recipient_editor_count_format">%d</string>
      <string name="recognizing_image">Prepoznajem fotografiju...</string>

@@ -206,7 +206,7 @@ Povuci na dole da zaključaš"</string>
      <string name="usb_storage_message">Povezani ste na vaš kompjuter preko USB. Dodirnite taster ispod ako želite da kopirate datoteke između računara i Android USB memorije.</string>
      <string name="usb_storage_notification_message">Izaberite datoteke za kopiranje sa/na kompjuter.</string>
      <string name="usb_storage_notification_title">USB povezan</string>
-     <string name="usb_storage_stop_message">"'Pre nego isključite USB memoriju, uverite se, da ste otkačili ("izbacili") Android USB memoriju od vašeg kompjutera.'"</string>
+     <string name="usb_storage_stop_message">"Pre nego isključite USB memoriju, uverite se, da ste otkačili ("izbacili") Android USB memoriju od vašeg kompjutera."</string>
      <string name="usb_storage_stop_notification_message">Izaberi USB memoriju da je isključiš.</string>
      <string name="usb_storage_stop_notification_title">Isključi USB memoriju</string>
      <string name="usb_storage_stop_title">USB memorija se koristi</string>

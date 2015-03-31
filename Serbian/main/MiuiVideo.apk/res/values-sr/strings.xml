@@ -12,7 +12,7 @@
   <string name="addon">dodaci</string>
   <string name="addon_all">Sve</string>
   <string name="addon_category">Dodaci</string>
-  <string name="addon_install_complete_disc">'%s dodataka instalirano. Možete ih videti u "Moji video materijali".'</string>
+  <string name="addon_install_complete_disc">%s dodataka instalirano. Možete ih videti u "Moji video materijali".</string>
   <string name="addon_installed_empty_hint">Prazno</string>
   <string name="addon_list_empty_hint">Prazno</string>
   <string name="addon_update_desc">Nova verzija postoji, da je istaliram?</string>
@@ -81,10 +81,10 @@
   <string name="day">Dan</string>
   <string name="declaration">Uslovi korišćenja</string>
   <string name="declaration_allow">Slažem se</string>
-  <string name="declaration_content">'1. Korišćenjem ove usluge, slažete se sa uslovima korišćenja Sohu Video, iQiyi i ostalim ponuđačima sadržaja "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Use&lt;/a&gt;". 
+  <string name="declaration_content">1. Korišćenjem ove usluge, slažete se sa uslovima korišćenja Sohu Video, iQiyi i ostalim ponuđačima sadržaja "&lt;a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1"&gt;Terms of Use&lt;/a&gt;". 
 2. Pomozite poboljšanju proizvoda automatskim slanjem dijagnostike i korišćenja podataka ka Xiaomi. 
 3. Naš HD video dodatak će se automatski instalirati. 
-4. Da bi koristili ovu uslugu, morate biti priključeni na internet'</string>
+4. Da bi koristili ovu uslugu, morate biti priključeni na internet</string>
   <string name="declaration_content_td_custom">Ova usluga za pravilan rad zahteva da ste priključeni na internet</string>
   <string name="defaults">Uobičajeno</string>
   <string name="delete">Izbriši</string>
@@ -188,7 +188,7 @@
   <string name="offline_max_promote">Čekam na predmemoriju,majviše dva predmemorisana zadatka mogu biti pokrenuta istovremeno.</string>
   <string name="offline_media_empty_hint">Prazno</string>
   <string name="offline_no_source">Ne vidi se kada niste na mreži</string>
-  <string name="offline_no_wifi">'Niste povezani na WLAN. Za prenos ovog videa uključite  \"Upotrebite mobilni prenos podataka\" u Podešavanja.'</string>
+  <string name="offline_no_wifi">Niste povezani na WLAN. Za prenos ovog videa uključite  \"Upotrebite mobilni prenos podataka\" u Podešavanja.</string>
   <string name="offline_setting">Potrošnja prenosa podataka</string>
   <string name="ok">OK</string>
   <string name="online_video">Na mreži</string>

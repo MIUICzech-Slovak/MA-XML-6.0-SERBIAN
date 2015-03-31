@@ -417,9 +417,9 @@ Prebaci na novog provajdera svakako?</string>
   <string name="ota_title_activate">Aktivirajte telefon</string>
   <string name="ota_title_activate_success">Telefon je aktiviran.</string>
   <string name="ota_title_problem_with_activation">Problem sa aktivacijom</string>
-  <string name="ota_touch_activate">'Morate pozvati poseban broj da aktivirate svoj telefonski servis. 
+  <string name="ota_touch_activate">Morate pozvati poseban broj da aktivirate svoj telefonski servis. 
 
-Nakon pritiska na "Aktivirajte", slušajte data uputstva za aktiviranje telefona.'</string>
+Nakon pritiska na "Aktivirajte", slušajte data uputstva za aktiviranje telefona.</string>
   <string name="ota_try_again">Pkušajte ponovo</string>
   <string name="ota_unsuccessful">Vaš telefon nije aktiviran. 
 Možda ćete morati da pronađete mesto sa boljom pokrivenošću signalom (blizu prozora ili napolju). 

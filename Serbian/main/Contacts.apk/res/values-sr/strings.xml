@@ -19,7 +19,7 @@
      <string name="add_account">Dodaj nalog</string>
      <string name="add_blacklist">Blokiraj</string>
      <string name="add_connection_button">Dodaj vezu</string>
-     <string name="add_contact_dlg_message_fmt">"'Dodaj "%s" u kontakte?'"</string>
+     <string name="add_contact_dlg_message_fmt">"Dodaj "%s" u kontakte?"</string>
      <string name="add_field">Dodaj novo polje</string>
      <string name="add_new_account">Dodaj novi nalog</string>
      <string name="add_new_entry_for_section">Dodaj novi</string>
@@ -206,7 +206,7 @@
      <string name="date_year_toggle">Obezbedi godinu</string>
      <string name="default_ringtone">Podrazumevana melodija zvona</string>
      <string name="deleteConfirmation">Ovaj kontakt će biti izbrisan</string>
-     <string name="deleteConfirmationDetail">"'Izbriši "%s"?'"</string>
+     <string name="deleteConfirmationDetail">"Izbriši "%s"?"</string>
      <string name="deleteConfirmation_title">Izbriši</string>
      <string name="delete_call_log_selected_title">Izbriši izabranu istoriju poziva?</string>
      <string name="delete_call_log_title">Izaberi istoriju poziva</string>
@@ -214,7 +214,7 @@
      <string name="delete_dial_input">Izbriši</string>
      <string name="delete_duplicate">Združi</string>
      <string name="delete_duplicate_message">Združujem kontakte...</string>
-     <string name="delete_group_dialog_message">"'Izbriši grupu "%1$s", sami kontakti neće biti izbrisani.'"</string>
+     <string name="delete_group_dialog_message">"Izbriši grupu "%1$s", sami kontakti neće biti izbrisani."</string>
      <string name="delete_group_dialog_title">Izbriši grupu</string>
      <string name="delete_selected_sim_entry_miui">Izbriši izabrane kontakte</string>
      <string name="delete_sim_entries_finish">Izbriši kontakte na SIM karti</string>
@@ -319,7 +319,7 @@
      <string name="display_options_view_names_as">Pogledaj imena kontakta kao</string>
      <string name="display_sim_contacts">Prikaži SIM kontakte</string>
      <string name="display_ungrouped">Svi ostali kontakti</string>
-     <string name="display_warn_remove_ungrouped">"'Uklanjanjem "%s" iz sinhronizacije će biti uklonjeni svi negrupisani kontakti iz sinhronizacije.'"</string>
+     <string name="display_warn_remove_ungrouped">"Uklanjanjem "%s" iz sinhronizacije će biti uklonjeni svi negrupisani kontakti iz sinhronizacije."</string>
      <string name="dlg_add_blacklist">Blokiram ovaj broj?</string>
      <string name="dlg_remove_blacklist">Odblokiram ovaj broj?</string>
      <string name="download_failed">Prenos neuspešan</string>
@@ -353,8 +353,8 @@
      <string name="export_to_sim2">Izvezi na SIM 2 karticu</string>
      <string name="export_to_sim_title">Izvozim...</string>
      <string name="export_vcard_description">Izvezi vCard na elefonsku internu memoriju</string>
-     <string name="exporting_contact_failed_message">"'Kontakti nisu izvezeni. 
-Razlog:  \"%s\"'"</string>
+     <string name="exporting_contact_failed_message">"Kontakti nisu izvezeni. 
+Razlog:  \"%s\""</string>
      <string name="exporting_contact_failed_title">Nije uspeo izvoz</string>
      <!-- MNPS mismatch found! Translated: 1 Original: 1
 	%s: 1 Original: 0
@@ -366,16 +366,16 @@ Razlog:  \"%s\"'"</string>
      <string name="exporting_vcard_canceled_title">Izvoz %s je prekinut.</string>
      <string name="exporting_vcard_finished_title">Izvoz %s je završen.</string>
      <string name="external_profile_title">Moj %1$s profil</string>
-     <string name="fail_reason_could_not_initialize_exporter">"'Izvoznik nije uspeo da se pokrene:  \"%s\".'"</string>
-     <string name="fail_reason_could_not_open_file" formatted="false">"'Otvaranje neuspelo \"%s\": %s.'"</string>
-     <string name="fail_reason_error_occurred_during_export">"'Prilikom izvoza došlo je do greške: "%s".'"</string>
+     <string name="fail_reason_could_not_initialize_exporter">"Izvoznik nije uspeo da se pokrene:  \"%s\"."</string>
+     <string name="fail_reason_could_not_open_file" formatted="false">"Otvaranje neuspelo \"%s\": %s."</string>
+     <string name="fail_reason_error_occurred_during_export">"Prilikom izvoza došlo je do greške: "%s"."</string>
      <string name="fail_reason_failed_to_collect_vcard_meta_info">Nije bilo moguće prikupiti informacije od vCard datotekama.</string>
      <string name="fail_reason_failed_to_read_files">Jedan ili više datoteka nisu mogle biti uvezene (%s).</string>
      <string name="fail_reason_io_error">I/O greška</string>
      <string name="fail_reason_low_memory_during_import">Nedovoljno memorije. Datoteka je možda prevelika.</string>
      <string name="fail_reason_no_exportable_contact">Nema kontakata koje je moguće izvesti.</string>
      <string name="fail_reason_not_supported">Format nije podržan.</string>
-     <string name="fail_reason_too_long_filename">"'Zahtevano ime je predugo ("%s").'"</string>
+     <string name="fail_reason_too_long_filename">"Zahtevano ime je predugo ("%s")."</string>
      <string name="fail_reason_too_many_vcard">Previše vCatd datoteka je u memoriji.</string>
      <string name="fail_reason_unknown">Nepoznata greška.</string>
      <string name="fail_reason_vcard_parse_error">Nemoguće rasčlaniti vCard iz neočekivanog razloga.</string>
@@ -454,7 +454,7 @@ Razlog:  \"%s\"'"</string>
 	%s: 1 Original: 0
 	%d: 0 Original: 0 -->
      <!-- Original string: Ujemanje "%$s"... -->
-     <string name="import_weibo_progress_name">"'Upoređivanje "%1$s"…'"</string>
+     <string name="import_weibo_progress_name">"Upoređivanje "%1$s"…"</string>
      <string name="import_weibo_progress_percent">%1$d%%</string>
      <string name="importing_sim_contacts_miui">Uvezi kontakte sa SIM kartice...</string>
      <string name="importing_vcard_canceled_title">Uvoz %s prekinut</string>
@@ -563,7 +563,7 @@ Razlog:  \"%s\"'"</string>
      <string name="missing_name">(Bez imena)</string>
      <string name="move_and_resize">Premesti i promeni veličinu</string>
      <string name="multipleContactDeleteConfirmation">Brisanje ovog kontakta će izbrisati informacjie iz više naloga.</string>
-     <string name="multipleContactDeleteConfirmationDetail">"'Brisanje "%s" će izbrisati informacjie iz više naloga.'"</string>
+     <string name="multipleContactDeleteConfirmationDetail">"Brisanje "%s" će izbrisati informacjie iz više naloga."</string>
      <string name="my_phone_not_provider_bluetooth">Moj telefon nema Bluetooth</string>
      <string name="my_phone_provider_bluetooth">Moj telefon ima Bluetooth</string>
      <string name="nameLabelsGroup">Ime</string>
@@ -587,7 +587,7 @@ Razlog:  \"%s\"'"</string>
      <string name="noContactHelpTextAccountsInfo"></string>
      <string name="noContactHelpTextImportXiaomiAccountInfo">Obnovite kontakte korišćenjem Mi Naloga</string>
      <string name="noContacts">Nema kontakata</string>
-     <string name="noContactsHelpText">"'Nema kontakte za prikaz. 
+     <string name="noContactsHelpText">"Nema kontakte za prikaz. 
 
 Da bi dodali kontakte, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", zatim dodirnite:
 
@@ -596,9 +596,9 @@ Da bi dodali kontakte, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;" Da kreirate novi kontakt od početka 
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;" Uvoz/Izvoz kontakata iz SIM ili SD kartice
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"'"</string>
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;""</string>
      <string name="noContactsHelpTextForCreateShortcut">Nemate kontakte za prikaz.</string>
-     <string name="noContactsHelpTextWithSync">"'Nemate kontakte za prikaz. (Ukoliko ste nedavno dodali nalog, može potrajati nekoliko minuta da sinhronizujete kontakte.) 
+     <string name="noContactsHelpTextWithSync">"Nemate kontakte za prikaz. (Ukoliko ste nedavno dodali nalog, može potrajati nekoliko minuta da sinhronizujete kontakte.) 
 
 Da bi dodali kontakte, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", zatim dodirnite:
 
@@ -607,9 +607,9 @@ Da bi dodali kontakte, dodirnite "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;" Da kreirate novi kontakt od početka 
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;" Uvoz/Izvoz kontakata iz SIM ili SD kartice
-"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"'"</string>
-     <string name="noContactsHelpTextWithSyncForCreateShortcut">"'Nemate kontakte za prikaz. (Ukoliko ste nedavno dodali nalog, može potrajati nekoliko minuta da sinhronizujete kontakte.) "</string>
-     <string name="noContactsNoSimHelpText">"\'Nemate kontakte za prikaz. 
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;""</string>
+     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nemate kontakte za prikaz. (Ukoliko ste nedavno dodali nalog, može potrajati nekoliko minuta da sinhronizujete kontakte.) "</string>
+     <string name="noContactsNoSimHelpText">"\Nemate kontakte za prikaz. 
 
 Da bi dodali kontakte, dodirnite  \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", potom dodirnite:
 
@@ -619,7 +619,7 @@ Da bi dodali kontakte, dodirnite  \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;M
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\"
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\"Uvoz/Izvoz da uvezete kontakte sa vaše SD kartice 
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\""</string>
-     <string name="noContactsNoSimHelpTextWithSync">"\'Nemate kontakte za prikaz. (Ukoliko ste nedavno dodali nalog, može potrajati nekoliko minuta da sinhronizujete kontakte.)
+     <string name="noContactsNoSimHelpTextWithSync">"\Nemate kontakte za prikaz. (Ukoliko ste nedavno dodali nalog, može potrajati nekoliko minuta da sinhronizujete kontakte.)
 
 Da bi dodali kontakte, dodirnite \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Menu&lt;/font&gt;&lt;/b&gt;\", zatim dodirnite:
 
@@ -630,7 +630,7 @@ Da bi dodali kontakte, dodirnite \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;Me
 \"&lt;b&gt;&lt;font fgcolor=\"#ffffffff\"&gt;&lt;li&gt;\" Uvoz/Izvoz kontakata iz SIM ili SD kartice
 \"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;\" "</string>
      <string name="noContactsWithPhoneNumbers">Nema kontakata sa brojevima telefona</string>
-     <string name="noFavoritesHelpText">"'Nemate omiljene. 
+     <string name="noFavoritesHelpText">"Nemate omiljene. 
 
 Da dodate kontakt u listu omiljenih:
 
@@ -639,7 +639,7 @@ Da dodate kontakt u listu omiljenih:
 "&lt;li&gt;"Dodirnite kontakt koji želite da dodate u omiljene
 "&lt;/li&gt;"
 "&lt;li&gt;"Dodirnite zvezdu pored imena kontakta 
-"&lt;/li&gt;"'"</string>
+"&lt;/li&gt;""</string>
      <string name="noGroups">Nema grupa</string>
      <string name="noMatchingContacts">Nije nađen kontakt koji se poklapa</string>
      <string name="noRecentContacts">Nema nedavnih kontakata</string>
@@ -771,7 +771,7 @@ Da dodate kontakt u listu omiljenih:
      <string name="quickcontact_missing_app">Ne postoji aplikacija koja zna da izvede ovu akciju</string>
      <string name="quit_dialog_confirm_title">Niste združili nijedan kontakt</string>
      <string name="readOnlyContactDeleteConfirmation">Ovaj kontakt sadrži informacije iz više naloga. Informacije iz naloga koji se samo mogu čitati biće sakriveni u kontakt listama, ne izbrisani.</string>
-     <string name="readOnlyContactDeleteConfirmationDetail">"'"%s" sadrži informacije iz više naloga. Informacije iz naloga koji se samo mogu čitati biće sakriveni u kontakt listama, ne izbrisani.'"</string>
+     <string name="readOnlyContactDeleteConfirmationDetail">""%s" sadrži informacije iz više naloga. Informacije iz naloga koji se samo mogu čitati biće sakriveni u kontakt listama, ne izbrisani."</string>
      <string name="readOnlyContactWarning">Ne možete izbrisati kontakt iz naloga koji je zaključan za editivanje ali možete da ih sakrijete u vašim kontakt listama.</string>
      <string name="readingSimContacts">Čitam SIM kartu...</string>
      <string name="reading_vcard_canceled_title">Čitanje vCard podataka prekinuto</string>
@@ -878,7 +878,7 @@ Da započnete, dodirnite ikonu Združi na dnu ovog ekrana."</string>
      <string name="resource_exchange_has_used">Kod koji ste uneli je već iskorišćen.</string>
      <string name="resource_exchange_hint">Unesi poklon kod</string>
      <string name="resource_exchange_purchase_unkown_error">Jao! Došlo je do nepoznate greške. Prijavite se na http://market.xiaomi.com da vidite status plaćanja.</string>
-     <string name="resource_exchange_share_code_content">"Dobili ste poklon kod (%2$s) za teme %1$s na MIUI's Trgovina Tema. Tapnite %3$s da upotrebite."</string>
+     <string name="resource_exchange_share_code_content">"Dobili ste poklon kod (%2$s) za teme %1$s na MIUIs Trgovina Tema. Tapnite %3$s da upotrebite."</string>
      <string name="resource_exchange_share_code_dlg_content">Poklon kod za %1$s: %2$s. Kada pošaljete drugom MIUI korisnku, oni mogu da iskoriste i prenesu tu temu.</string>
      <string name="resource_exchange_share_code_dlg_title">Šaljem</string>
      <string name="resource_exchange_success">Uživajte! :)</string>
@@ -977,7 +977,7 @@ sadržaj koji tražite trenutno nije raspoloživ u vešoj regiji."</string>
      <string name="scan_merge">Tražim duple kontakte</string>
      <string name="scan_qrcode_card_hint1">Skeniram QR kod</string>
      <string name="scan_qrcode_card_hint2">Dodaj moke informacije u tvoje kontakte</string>
-     <string name="scanning_sdcard_failed_message">"'Razlog: "%s".'"</string>
+     <string name="scanning_sdcard_failed_message">"Razlog: "%s"."</string>
      <string name="scanning_sdcard_failed_title">Memorija ne može biti skenirana</string>
      <string name="sdcard_not_mounted_dialog_message">Sada stavite SD karticu.</string>
      <string name="sdcard_not_mounted_dialog_title">Nema SD kartice</string>

@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="cit_OTG_plugin_check_summary">'Kada OTG uređaj bude povezan, pojavit će se tekst "USB OTG uređaj prepoznat".'</string>
+  <string name="cit_OTG_plugin_check_summary">Kada OTG uređaj bude povezan, pojavit će se tekst "USB OTG uređaj prepoznat".</string>
   <string name="cit_OTG_plugin_check_title">OTG (prepoznavanje)</string>
-  <string name="cit_OTG_plugout_check_summary">'ada je OTG uređaj uklonjen, pojavit će se tekst "USB OTG uređaj uklonjen". '</string>
+  <string name="cit_OTG_plugout_check_summary">ada je OTG uređaj uklonjen, pojavit će se tekst "USB OTG uređaj uklonjen". </string>
   <string name="cit_OTG_plugout_check_title">OTG (uklanjanje)</string>
   <string name="cit_OTG_waiting_in">Poveži USB OTG uređaj</string>
   <string name="cit_OTG_waiting_out">Isključite USB OTG uređaj</string>
@@ -77,9 +77,9 @@ Postavite telefon kao pri običnom pozivu, govorite u mikrofon. Emituje se glas 
 2.Pritisnite dugme Nazad za izlaz iz Kamere 
 3. Tu je indikator izvršene operacije koji će pokazati da li je kalibracija bila uspešna</string>
   <string name="cit_camera_sdcard_error">Fotofrafiju nije moguće snimiti.  SD kartica je puna.</string>
-  <string name="cit_charger_plugin_check_summary">'Kada je USB punjač priključen, pojavit će se  poruka "Punjenje preko USB/AC". '</string>
+  <string name="cit_charger_plugin_check_summary">Kada je USB punjač priključen, pojavit će se  poruka "Punjenje preko USB/AC". </string>
   <string name="cit_charger_plugin_check_title">Punjač (priključen)</string>
-  <string name="cit_charger_plugout_check_summary">'Kada USB punjač bude isključen, pojavit će se poruka "USB/AC punjač isključen"'</string>
+  <string name="cit_charger_plugout_check_summary">Kada USB punjač bude isključen, pojavit će se poruka "USB/AC punjač isključen"</string>
   <string name="cit_charger_plugout_check_title">Punjač (isključen)</string>
   <string name="cit_charger_waiting_in">Priključite punjač</string>
   <string name="cit_charger_waiting_out">Sada isključite punjač</string>
@@ -133,11 +133,11 @@ Dotaknite ekran za aktivaciju GPS-a...</string>
   <string name="cit_headset_button_unknown">Nepoznato</string>
   <string name="cit_headset_loopback_check_summary">Priključite slušalice na uređaj. Govorite u mikrofon na slušalicama (često ugrađen na kablovima). Trebali bi čuti svoj glas u slušalicama.</string>
   <string name="cit_headset_loopback_check_title">Test slušalica mikrofona</string>
-  <string name="cit_headset_plug_detect_summary">'Kada su slušalice uključene, tekst "Slušalice su uključene" bi se morao pojaviti u donjem djelu.'</string>
+  <string name="cit_headset_plug_detect_summary">Kada su slušalice uključene, tekst "Slušalice su uključene" bi se morao pojaviti u donjem djelu.</string>
   <string name="cit_headset_plug_detect_title"> Pronalaženje slušalica (poveži)</string>
   <string name="cit_headset_plug_finish">Slušalice pronađene</string>
   <string name="cit_headset_plug_hint">Priključite slušalice</string>
-  <string name="cit_headset_pull_detect_summary">'Kada isključite slušalice, tekst "Slušalice su isključene" bi se morao pojaviti u donjem dijelu.'</string>
+  <string name="cit_headset_pull_detect_summary">Kada isključite slušalice, tekst "Slušalice su isključene" bi se morao pojaviti u donjem dijelu.</string>
   <string name="cit_headset_pull_detect_title">Pronalaženje slušalica (isključi)</string>
   <string name="cit_headset_pull_finish">Slušalice su isključene</string>
   <string name="cit_headset_pull_hint">Isključi slušalice</string>
@@ -193,13 +193,13 @@ Pre izvođenja testa uverite se da nema prepreka između vaše ruke i senzora (z
   <string name="cit_sd_fail">Desila se pogreška</string>
   <string name="cit_sd_mount">Unesite SD karticu</string>
   <string name="cit_sd_mount_sucess">SD kartica unesena</string>
-  <string name="cit_sd_mp3_not_existed">'Na SD kartici nema datoteke s imenom \"music.mp3\". 
-Nakon što premestite \"music.mp3\"  na SD karticu dotaknite ekran za izvođenje.'</string>
+  <string name="cit_sd_mp3_not_existed">Na SD kartici nema datoteke s imenom \"music.mp3\". 
+Nakon što premestite \"music.mp3\"  na SD karticu dotaknite ekran za izvođenje.</string>
   <string name="cit_sd_plugged_in">SD kartica prepoznata. Uklonite SD karticu.</string>
   <string name="cit_sd_plugged_out">SD kartica je uklonjena. Ubacite SD karticu.</string>
-  <string name="cit_sd_plugin_check_summary">'Tekst "SD kartica prepoznata. Uklonite SD karticu"bi se trebao ispisati  odozdo.'</string>
+  <string name="cit_sd_plugin_check_summary">Tekst "SD kartica prepoznata. Uklonite SD karticu"bi se trebao ispisati  odozdo.</string>
   <string name="cit_sd_plugin_check_title">SD karica (prepoznavanje)</string>
-  <string name="cit_sd_plugout_check_summary">'Kada uklonite SD karticu, tekst "SD kartica je uklonjena, ubacite SD kartcu" bi se trebao ispisati odozdo.'</string>
+  <string name="cit_sd_plugout_check_summary">Kada uklonite SD karticu, tekst "SD kartica je uklonjena, ubacite SD kartcu" bi se trebao ispisati odozdo.</string>
   <string name="cit_sd_plugout_check_title">SD kartica (uklanjanje)</string>
   <string name="cit_sd_unmount">Ukloni SD karticu</string>
   <string name="cit_sd_unmount_sucess">SD kartica uklonjena</string>

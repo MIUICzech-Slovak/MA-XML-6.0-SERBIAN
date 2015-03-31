@@ -135,7 +135,7 @@
   <string name="set_auto">Automatska provera nadgradnje</string>
   <string name="set_auto_msg">Automatsko preuzimanje nadgradnji preko WLAN-a</string>
   <string name="set_auto_update_title">Automatsko preuzimanje nadgradnji</string>
-  <string name="set_installfail_full_msg">\'Nadgradnja trenututno nije moguća. Pritisnite \\"OK\\" da prijavite ovu grešku \'</string>
+  <string name="set_installfail_full_msg">\Nadgradnja trenututno nije moguća. Pritisnite \\"OK\\" da prijavite ovu grešku \</string>
   <string name="set_installfail_msg">Korišćenjem vaše mobilne povezanosti podataka prilikom preuzimanja nadgradnje povećavate upotrebu vaših podataka. </string>
   <string name="set_installfail_title">Da li želite da ponovo preuzmete nadgradnju?</string>
   <string name="set_installfail_title_full">Nadgradnja neuspela</string>

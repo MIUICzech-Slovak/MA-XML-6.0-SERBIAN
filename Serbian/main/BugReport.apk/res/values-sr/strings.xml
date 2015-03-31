@@ -78,7 +78,7 @@
   <string name="signal_problem2">Slab signal</string>
   <string name="submit_dialog_cancel">Prekini</string>
   <string name="submit_dialog_confirm">Potvrdi</string>
-  <string name="submit_dialog_content">"Baš opis koa i dnevnik grešaka i slikama, biće poslani Xiaomi's serverima."</string>
+  <string name="submit_dialog_content">"Baš opis koa i dnevnik grešaka i slikama, biće poslani Xiaomis serverima."</string>
   <string name="submit_dialog_title">Pošalji izveštaj Xiaomi </string>
   <string name="suggestion_description">Upišite predlog</string>
   <string name="suggestion_problem1">Recite nam koje funkcije bi želeli u budućnosti</string>

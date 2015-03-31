@@ -51,7 +51,7 @@
   <string name="datausage_purchase_order_history">Istorija</string>
   <string name="datausage_purchase_ordering">Kupujem....</string>
   <string name="datausage_purchase_pay_captcha_hint">Dodeljeni kod unesite ovde</string>
-  <string name="datausage_purchase_pay_captcha_tips">'Za uspešno obavljanje kupovine dodeljeni kod unesite u gornje polje i dotaknite "Kupi". Pozor! Kod važi samo 10 minuta. '</string>
+  <string name="datausage_purchase_pay_captcha_tips">Za uspešno obavljanje kupovine dodeljeni kod unesite u gornje polje i dotaknite "Kupi". Pozor! Kod važi samo 10 minuta. </string>
   <string name="datausage_purchase_pay_confirm">Kupi</string>
   <string name="datausage_purchase_pay_hint">Za prekid birajte %s</string>
   <string name="datausage_purchase_pkglist_networkerror">Ne mogu se povezati s mrežom. Proverite povezanost za prenost podataka i pokušajte ponovno.</string>
@@ -317,8 +317,8 @@ Vaš mesečni limit upotrebe off-peak podataka je %1$s. To se razlikuje od %2$s 
   <string name="traffic_saving_history_total_money_unit">RMB</string>
   <string name="traffic_saving_history_total_month">Sačuvano ovaj mesec:</string>
   <string name="traffic_saving_history_total_month_default">Prosječna mesečna ušteda</string>
-  <string name="traffic_saving_history_total_month_value">"Slušaj &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; pesme / Ćaskanje&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sati / Čitaj&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; članci"</string>
-  <string name="traffic_saving_history_total_month_value_default">"Poslušaj&lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Pesme/ Chat for &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; članci / Read &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
+  <string name="traffic_saving_history_total_month_value">"Slušaj &lt;font color=#45c487&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; pesme / Ćaskanje&lt;font color=#45c487&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; sati / Čitaj&lt;font color=#45c487&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; članci"</string>
+  <string name="traffic_saving_history_total_month_value_default">"Poslušaj&lt;font color=#45c487&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Pesme/ Chat for &lt;font color=#45c487&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; članci / Read &lt;font color=#45c487&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; articles"</string>
   <string name="traffic_saving_history_total_rate">Ocena</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Sačuvani podaci</string>
@@ -338,7 +338,7 @@ Vaš mesečni limit upotrebe off-peak podataka je %1$s. To se razlikuje od %2$s 
   <string name="traffic_saving_whitelist_btn_added">Dodano</string>
   <string name="traffic_saving_whitelist_btn_remove">Ukloni</string>
   <string name="traffic_saving_whitelist_btn_removed">Aplikaciju umaknuta s liste</string>
-  <string name="traffic_saving_whitelist_count">"&lt;font color='#4DAA0F'&gt;%1$d&lt;/font&gt; aplikacijska upotreba podataka nije ograničena"</string>
+  <string name="traffic_saving_whitelist_count">"&lt;font color=#4DAA0F&gt;%1$d&lt;/font&gt; aplikacijska upotreba podataka nije ograničena"</string>
   <string name="traffic_saving_whitelist_no_app">Nema aplikacija</string>
   <string name="traffic_setting_fragment_area">Lokalno</string>
   <string name="traffic_setting_fragment_brand">marka</string>

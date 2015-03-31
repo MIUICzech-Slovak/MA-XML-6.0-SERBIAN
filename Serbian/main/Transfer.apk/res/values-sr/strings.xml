@@ -424,7 +424,7 @@ Enable via Settings &gt; System &gt; Button Settings "</string>
      <string name="first_in_tip">Korišćenje prenosa</string>
      <string name="fm_record_smaple_prefix_miui">FM snimanje</string>
      <string name="fools_day">愚人节</string>
-     <string name="force_exit_message">"'"%1$s" uspešno zatvoren'"</string>
+     <string name="force_exit_message">""%1$s" uspešno zatvoren"</string>
      <string name="forget_password_string">Zaboravljena lozinka</string>
      <string name="format_time_in_12_hours">hh:mma</string>
      <string name="global_action_privacy_mode_dialog_message">Prilikom čuvanja, pozivi, beleške, galerija i pisane poruke će biti sakriveni i lanser neće biti u mogučnosti da pristupi načinu uredjivanja. Možete podesiti llozinku da zaštitite način čuvanja prilikom podešavanja Access Control-a. </string>
@@ -607,7 +607,7 @@ i u mogućnosti da prihvati datoteku."</string>
      <string name="scanning">Skeniranje...</string>
      <string name="screen_button_notification_text">Pritiskanje </string>
      <string name="screen_button_notification_title">Tasteri ekrana su onemogućeni</string>
-     <string name="screen_on_proximity_sensor_hint">"Prekid u sili: pritiskanjem tastera 'Back'+'Volume Up'"</string>
+     <string name="screen_on_proximity_sensor_hint">"Prekid u sili: pritiskanjem tastera Back+Volume Up"</string>
      <string name="screen_on_proximity_sensor_summary">Ne prekrivati vrh ekrana</string>
      <string name="screen_on_proximity_sensor_title">Režim za sprečavanje nepravilnosti u radu</string>
      <string name="sd_not_available">SD kartica neuramljena ili nedostupna </string>

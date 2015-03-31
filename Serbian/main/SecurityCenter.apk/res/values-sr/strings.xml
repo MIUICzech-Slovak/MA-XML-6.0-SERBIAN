@@ -193,7 +193,7 @@
      <!-- MNPS mismatch found! Translated: 1 Original: 1
 	%s: 0 Original: 1
 	%d: 0 Original: 0 -->
-     <!-- Original string: "Ta funkcija šifrira in prenese ID vaše naprave v Tencent's strežnike (%s)." -->
+     <!-- Original string: "Ta funkcija šifrira in prenese ID vaše naprave v Tencents strežnike (%s)." -->
      <string name="header_antivirus">Ova funkcija kodira i šalje ID vašeg uređaja Tenscent-ovim serverima (%s)</string>
      <string name="header_optimizer">Korišćenjem ove usluge, slažete se sa %s.</string>
      <string name="hints_ad_header_left">Dodaj datoteke: %d</string>
@@ -342,7 +342,7 @@
      <string name="msg_update_error_code_success">Ažuriranje završeno</string>
      <string name="msg_update_error_code_unknown_error">Nepoznata greška</string>
      <string name="name_antivirus">pogledaj Politiku Privatnosti</string>
-     <string name="name_optimizer">"Cheetah Mobile's Politika Privatnosti"</string>
+     <string name="name_optimizer">"Cheetah Mobiles Politika Privatnosti"</string>
      <string name="never">1 put</string>
      <string name="notification_button_text_of_low_memory">Čišćenje</string>
      <string name="notification_summary_after_auto_cleanup">Očišćeno %s.</string>
@@ -602,7 +602,7 @@
      <string name="summary_install_virus">Proverite aplikacije na viruse pre instalacije</string>
      <string name="summary_miui_update">Popravak raspoloživ za %s.</string>
      <string name="summary_mms">Filter neželjenih poruka (reklame, akcije, itd.)</string>
-     <string name="summary_optimizer">"Ova funkcija pošalje imena fascikli  Cheetah Mobile's online bazu podataka i zahteva ID vašeg uređaja."</string>
+     <string name="summary_optimizer">"Ova funkcija pošalje imena fascikli  Cheetah Mobiles online bazu podataka i zahteva ID vašeg uređaja."</string>
      <string name="summary_permission">Zaštiti moju privatnost od potencijalno zlonamernih aplikacija</string>
      <string name="summary_permission_root">Vaš uređaj i lični podaci su ranjiviji na napade od aplikacija koje imaju root pristup</string>
      <string name="summary_power_optimizer">Smanji performanse uređaja kada je baterija skoro prazna</string>

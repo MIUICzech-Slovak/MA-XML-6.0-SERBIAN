@@ -408,7 +408,7 @@
      <string name="send">Pošalji</string>
      <string name="send_hms_editor_hints">Mi poruka</string>
      <string name="send_message_dlg_check_hint">Ne prikazuj ponovo</string>
-     <string name="send_message_dlg_mgs">"'CMCC obaveštenje: Molim da registrujete vaš uređaj na platformu za upravljanje uređajima da bi dobili besplatan post-servis (Post servis je platforma razvijena od CMCC koja upravlja krajnjim uređajima. Omogućava udaljeni nadzor, podešavanje i nadgradnju aplikacija.). Besplatna poruka o uređaju će biti poslata za registraciju. Ta poruka će biti poslata jednom i ne zahteva vaše lične podatke (Ne šaljite iz Honh Kong-a, Makaa, Tajvana i međunarodnog rominga). Izaberite "OK" ako se slažete sa korišćenjem tog servisa. Izaberite "Poništi" za odustajanje i nikakvi servisi neće biti prosleđeni od strane CMCC.'"</string>
+     <string name="send_message_dlg_mgs">"CMCC obaveštenje: Molim da registrujete vaš uređaj na platformu za upravljanje uređajima da bi dobili besplatan post-servis (Post servis je platforma razvijena od CMCC koja upravlja krajnjim uređajima. Omogućava udaljeni nadzor, podešavanje i nadgradnju aplikacija.). Besplatna poruka o uređaju će biti poslata za registraciju. Ta poruka će biti poslata jednom i ne zahteva vaše lične podatke (Ne šaljite iz Honh Kong-a, Makaa, Tajvana i međunarodnog rominga). Izaberite "OK" ako se slažete sa korišćenjem tog servisa. Izaberite "Poništi" za odustajanje i nikakvi servisi neće biti prosleđeni od strane CMCC."</string>
      <string name="send_message_dlg_title">Upravljanje uređajem</string>
      <string name="send_message_notification_msg">Tapni da pogledaš zahtevane detalje.</string>
      <string name="send_message_notification_tickerText">Uređaj zahteva dozvolu</string>
